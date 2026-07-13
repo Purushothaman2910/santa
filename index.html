@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Daily Focus</title>
+<meta name="theme-color" content="#f5f5f3">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<style>
+  :root {
+    --bg: #f5f5f3;
+    --surface: #ffffff;
+    --text: #1a1a1a;
+    --muted: #767672;
+    --border: #e4e3e0;
+    --accent: #2d6a4f;
+    --accent-text: #ffffff;
+    --danger: #b3413c;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #17181a;
+      --surface: #202125;
+      --text: #eceae6;
+      --muted: #8f8f8a;
+      --border: #33343a;
+      --accent: #6fbf95;
+      --accent-text: #0f1210;
+      --danger: #e08b83;
+    }
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: var(--bg);
+    color: var(--text);
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    font-weight: 400;
+    line-height: 1.4;
+    max-width: 480px;
+    margin: 0 auto;
+    padding: 20px 18px 60px;
+    min-height: 100vh;
+  }
+
+  h1, h2, .medium { font-weight: 600; }
+
+  section {
+    margin-bottom: 34px;
+  }
+
+  /* Header */
+  #greeting-text {
+    font-size: 1.15rem;
+    font-weight: 600;
+    margin: 0 0 4px;
+  }
+  #greeting-date {
+    font-size: 0.82rem;
+    color: var(--muted);
+  }
+
+  /* Section headings */
+  .section-heading {
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+    font-weight: 600;
+    margin: 0 0 12px;
+  }
+
+  /* Task rows */
+  .task-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 0 0 12px;
+    padding: 0;
+    list-style: none;
+  }
+
+  .task-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 12px 14px;
+  }
+
+  .task-row.carried {
+    opacity: 0.72;
+  }
+
+  .task-checkbox {
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+    margin-top: 1px;
+    accent-color: var(--accent);
+  }
+
+  .task-text {
+    flex: 1;
+    font-size: 0.95rem;
+    word-break: break-word;
+  }
+
+  .task-text.done {
+    text-decoration: line-through;
+    color: var(--muted);
+  }
+
+  .task-carry-badge {
+    font-size: 0.68rem;
+    color: var(--muted);
+    white-space: nowrap;
+    margin-top: 2px;
+  }
+
+  .task-delete {
+    background: none;
+    border: none;
+    color: var(--muted);
+    font-size: 1rem;
+    line-height: 1;
+    cursor: pointer;
+    padding: 2px 4px;
+  }
+
+  /* Carry-over prompt */
+  .carry-prompt {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 10px 14px;
+    margin-top: -2px;
+    margin-bottom: 8px;
+    font-size: 0.82rem;
+    color: var(--text);
+  }
+  .carry-prompt-actions {
+    display: flex;
+    gap: 8px;
+    margin-top: 8px;
+  }
+  .carry-prompt-actions button {
+    font-size: 0.78rem;
+    padding: 5px 12px;
+    border-radius: 7px;
+    border: 1px solid var(--border);
+    background: var(--bg);
+    color: var(--text);
+    cursor: pointer;
+  }
+  .carry-prompt-actions button.keep {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  /* Add task form */
+  .add-task-form {
+    display: flex;
+    gap: 8px;
+    margin-top: 4px;
+  }
+  .add-task-form input[type="text"] {
+    flex: 1;
+    padding: 10px 12px;
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text);
+    font-size: 0.92rem;
+  }
+  .add-task-form input[type="text"]:focus {
+    outline: 2px solid var(--accent);
+    outline-offset: 1px;
+  }
+  .btn-accent {
+    background: var(--accent);
+    color: var(--accent-text);
+    border: none;
+    border-radius: 10px;
+    padding: 10px 16px;
+    font-size: 0.92rem;
+    font-weight: 600;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .btn-accent:active { opacity: 0.85; }
+
+  .inline-note {
+    font-size: 0.78rem;
+    color: var(--muted);
+    margin-top: 8px;
+  }
+
+  /* Digest */
+  .digest-item {
+    margin-bottom: 14px;
+  }
+  .digest-item:last-child { margin-bottom: 0; }
+  .digest-title {
+    font-weight: 600;
+    font-size: 0.95rem;
+    margin: 0 0 2px;
+  }
+  .digest-why {
+    font-size: 0.85rem;
+    color: var(--muted);
+    margin: 0;
+  }
+  .digest-meta {
+    font-size: 0.72rem;
+    color: var(--muted);
+    margin-top: 14px;
+  }
+  .digest-fallback {
+    font-size: 0.85rem;
+    color: var(--muted);
+  }
+
+  /* Check-in */
+  #checkin {
+    scroll-margin-top: 20px;
+  }
+  .checkin-textarea {
+    width: 100%;
+    min-height: 84px;
+    padding: 10px 12px;
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text);
+    font-size: 0.92rem;
+    font-family: inherit;
+    resize: vertical;
+    margin-top: 10px;
+  }
+  .checkin-textarea:focus {
+    outline: 2px solid var(--accent);
+    outline-offset: 1px;
+  }
+
+  .btn-closeout {
+    display: block;
+    width: 100%;
+    margin-top: 14px;
+    background: var(--accent);
+    color: var(--accent-text);
+    border: none;
+    border-radius: 10px;
+    padding: 13px 16px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .btn-closeout:active { opacity: 0.85; }
+  .btn-closeout.saved {
+    background: var(--muted);
+  }
+
+  .alarm-note {
+    font-size: 0.78rem;
+    color: var(--muted);
+    margin-top: 18px;
+    padding-top: 14px;
+    border-top: 1px solid var(--border);
+  }
+
+  .empty-state {
+    font-size: 0.85rem;
+    color: var(--muted);
+  }
+</style>
+</head>
+<body>
+
+<section id="morning">
+  <p id="greeting-text"></p>
+  <p id="greeting-date"></p>
+</section>
+
+<section id="focus">
+  <p class="section-heading">Today's Focus</p>
+  <ul class="task-list" id="task-list"></ul>
+  <form class="add-task-form" id="add-task-form">
+    <input type="text" id="new-task-input" placeholder="Add a task…" maxlength="140" autocomplete="off">
+    <button type="submit" class="btn-accent">Add</button>
+  </form>
+  <p class="inline-note" id="task-limit-note" style="display:none;">Max 5 tasks — finish or drop one first.</p>
+</section>
+
+<section id="digest">
+  <p class="section-heading">Signal Digest</p>
+  <div id="digest-content"></div>
+</section>
+
+<section id="checkin">
+  <p class="section-heading">Evening Check-in</p>
+  <ul class="task-list" id="checkin-task-list"></ul>
+  <textarea class="checkin-textarea" id="feedback-note" placeholder="How did today actually go?"></textarea>
+  <button class="btn-closeout" id="closeout-btn">Close out today</button>
+  <p class="alarm-note">Set a phone alarm at a fixed time linking to this page + #checkin — an alarm can't be swiped away like a notification.</p>
+</section>
+
+<script src="app.js"></script>
+</body>
+</html>

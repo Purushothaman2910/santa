@@ -1,0 +1,17 @@
+{
+  "generatedAt": "2026-07-13T06:00:00Z",
+  "items": [
+    {
+      "title": "This is placeholder digest data",
+      "why": "Run scripts/fetch_digest.py (or the GitHub Action) to replace this with real ranked items."
+    },
+    {
+      "title": "Add your RSS feeds first",
+      "why": "The feed list in scripts/fetch_digest.py is empty by default — fill it in before the digest becomes useful."
+    },
+    {
+      "title": "Digest refreshes once daily",
+      "why": "The GitHub Actions workflow runs the script on a schedule and commits the updated file."
+    }
+  ]
+}
