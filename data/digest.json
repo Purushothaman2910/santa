@@ -1,17 +1,25 @@
 {
-  "generatedAt": "2026-07-13T06:00:00Z",
+  "generatedAt": "2026-07-13T17:33:25Z",
   "items": [
     {
-      "title": "This is placeholder digest data",
-      "why": "Run scripts/fetch_digest.py (or the GitHub Action) to replace this with real ranked items."
+      "title": "OpenAI Launches New GPT-5.6 Family: Luna, Terra, Sol",
+      "why": "It announces OpenAI's latest flagship models, crucial for anyone building with or tracking advanced AI capabilities."
     },
     {
-      "title": "Add your RSS feeds first",
-      "why": "The feed list in scripts/fetch_digest.py is empty by default — fill it in before the digest becomes useful."
+      "title": "Bun JavaScript Runtime is Being Rewritten in Rust",
+      "why": "This significant architectural shift impacts performance, reliability, and the future development path of a widely used web runtime."
     },
     {
-      "title": "Digest refreshes once daily",
-      "why": "The GitHub Actions workflow runs the script on a schedule and commits the updated file."
+      "title": "Meta Introduces Muse Spark 1.1 with Public API",
+      "why": "It marks Meta's entry into the public LLM API market, offering a new alternative for developers and researchers."
+    },
+    {
+      "title": "sqlite-utils 4.0 Adds Database Schema Migrations",
+      "why": "This major update introduces powerful schema migration features to a widely used SQLite utility, simplifying database management for developers."
+    },
+    {
+      "title": "Better AI Models Can Lead to Worse Tooling Performance",
+      "why": "It exposes a surprising problem where newer, more capable AI models can sometimes degrade performance in tool-calling, which is vital for building reliable AI agents."
     }
   ]
 }
