@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-07-13T17:33:25Z",
+  "generatedAt": "2026-07-14T07:53:33Z",
   "items": [
     {
-      "title": "OpenAI Launches New GPT-5.6 Family: Luna, Terra, Sol",
-      "why": "It announces OpenAI's latest flagship models, crucial for anyone building with or tracking advanced AI capabilities."
+      "title": "OpenAI GPT-5.6 Family: Luna, Terra, Sol",
+      "why": "It introduces OpenAI's latest flagship AI models, crucial for understanding the state of the art in generative AI capabilities."
     },
     {
-      "title": "Bun JavaScript Runtime is Being Rewritten in Rust",
-      "why": "This significant architectural shift impacts performance, reliability, and the future development path of a widely used web runtime."
+      "title": "Bun Rewritten in Rust for Performance",
+      "why": "This highlights a significant engineering decision to rewrite a popular JavaScript runtime in Rust, showcasing Rust's growing adoption in critical performance-sensitive infrastructure."
     },
     {
-      "title": "Meta Introduces Muse Spark 1.1 with Public API",
-      "why": "It marks Meta's entry into the public LLM API market, offering a new alternative for developers and researchers."
+      "title": "Better AI Models Lead to Worse Tool Integration",
+      "why": "It discusses a critical practical problem where newer, more capable AI models can paradoxically worsen tool-calling reliability, directly impacting AI application development."
     },
     {
-      "title": "sqlite-utils 4.0 Adds Database Schema Migrations",
-      "why": "This major update introduces powerful schema migration features to a widely used SQLite utility, simplifying database management for developers."
+      "title": "Measuring AI Impact on Developer Output",
+      "why": "This article offers a personal case study on quantifying how AI tools influence a developer's coding output, providing valuable insight into AI's practical effects on productivity."
     },
     {
-      "title": "Better AI Models Can Lead to Worse Tooling Performance",
-      "why": "It exposes a surprising problem where newer, more capable AI models can sometimes degrade performance in tool-calling, which is vital for building reliable AI agents."
+      "title": "sqlite-utils 4.0rc2: Mostly AI-Written Code",
+      "why": "It provides a concrete example of a significant software release where AI contributed a substantial amount of the code, offering insights into AI-assisted development and its associated costs."
     }
   ]
 }
