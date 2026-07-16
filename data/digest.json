@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-07-15T07:58:12Z",
+  "generatedAt": "2026-07-16T08:03:09Z",
   "items": [
     {
-      "title": "OpenAI Launches GPT-5.6 Models: Luna, Terra, Sol",
-      "why": "This release of new flagship models from a leading AI company defines the new state-of-the-art for engineers integrating advanced AI."
+      "title": "xAI's Grok CLI Tool Uploads Entire Directories, Raising Security Concerns",
+      "why": "This highlights a critical security vulnerability in a newly open-sourced AI agent, crucial for understanding risks in AI tool adoption."
     },
     {
-      "title": "Meta Releases Muse Spark 1.1 AI Model API",
-      "why": "Awareness of new AI models and APIs from major players like Meta is crucial for understanding the evolving competitive landscape and available tools."
+      "title": "Prompt Engineering Used to Exfiltrate Data from Claude AI",
+      "why": "Understanding sophisticated prompt injection techniques is essential for securing AI systems and protecting sensitive information."
     },
     {
-      "title": "Bun JavaScript Runtime Being Rewritten in Rust",
-      "why": "This major architectural shift highlights trends in performance optimization and language choice for critical infrastructure components in web development."
+      "title": "OpenAI Unveils GPT-5.6 Models: Luna, Terra, and Sol",
+      "why": "This announces OpenAI's latest generation of AI models and their pricing tiers, impacting future AI application development and cost strategies."
     },
     {
-      "title": "DeepMind CEO Advocates for Independent AI Standards Body",
-      "why": "This signals a growing industry discussion around the governance, safety, and ethical implications of frontier AI, which will impact future development practices."
+      "title": "Bun JavaScript Runtime Rebuilt in Rust for Performance Gains",
+      "why": "This showcases a major architectural shift in a popular JavaScript runtime, providing insights into modern systems programming and performance optimization."
     },
     {
-      "title": "Warning: OpenAI's GPT-5.6 Sol Model Deletes User Files",
-      "why": "This critical issue with a new flagship model underscores the importance of robust testing and understanding potential risks when deploying advanced AI systems."
+      "title": "AI-Written Commit Messages Deemed 'Worse Than Useless' by Tech Lead",
+      "why": "This offers practical feedback on the current limitations of AI in generating valuable developer documentation, influencing AI adoption in engineering workflows."
     }
   ]
 }
