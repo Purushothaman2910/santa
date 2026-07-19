@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-07-18T07:40:27Z",
+  "generatedAt": "2026-07-19T08:07:52Z",
   "items": [
     {
-      "title": "OpenAI Releases New GPT-5.6 Model Family: Luna, Terra, Sol",
-      "why": "This update introduces OpenAI's latest flagship LLM, crucial for AI engineers to understand new capabilities and pricing."
+      "title": "Netflix Shares Insights on In-House LLM Serving",
+      "why": "This offers valuable architectural and operational insights for engineers building and deploying large language models in production environments."
     },
     {
-      "title": "Claude Vulnerability Leaks Sensitive User Data",
-      "why": "This highlights critical security risks in large language models and the importance of secure prompt engineering and system design."
+      "title": "Claude Vulnerability Leaks Sensitive Data via Web Fetch",
+      "why": "This highlights a critical security flaw in LLM web_fetch tools, urging developers to be vigilant about data exposure when interacting with external services."
     },
     {
-      "title": "xAI's Grok CLI Tool Open-Sourced with Security Concerns",
-      "why": "The release of this AI coding agent, despite past data upload controversies, presents both a new tool and a cautionary tale for AI integration."
+      "title": "xAI Grok CLI Open-Sourced with Data Upload Controversy",
+      "why": "This article reveals the ethical and security risks associated with new AI development tools, emphasizing the need for careful review before integrating them into workflows."
     },
     {
-      "title": "Netflix Details In-House LLM Serving Strategy",
-      "why": "Understanding how Netflix builds and operates its own LLM inference stack provides valuable insights for engineers deploying AI at scale."
+      "title": "Thinking Machines Lab Releases Inkling Open-Weight MoE",
+      "why": "The release of this new open-weight Mixture-of-Experts transformer provides a powerful and accessible option for AI researchers and developers."
     },
     {
-      "title": "Patreon Actively Blocks AI Model Scraping Bots",
-      "why": "This shift in strategy against unauthorized AI training highlights the evolving landscape of data protection and content ownership for developers."
+      "title": "Claude Code Migrates to Bun in Rust for Performance",
+      "why": "This technical deep dive into Claude's adoption of Bun rewritten in Rust demonstrates how performance optimizations are achieved in large-scale AI infrastructure."
     }
   ]
 }
