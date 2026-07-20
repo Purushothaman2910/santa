@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-07-19T08:07:52Z",
+  "generatedAt": "2026-07-20T08:48:44Z",
   "items": [
     {
-      "title": "Netflix Shares Insights on In-House LLM Serving",
-      "why": "This offers valuable architectural and operational insights for engineers building and deploying large language models in production environments."
+      "title": "Kimi K3: A New 2.8 Trillion Parameter Open-Weight LLM",
+      "why": "This announces a powerful new open-weight large language model, offering engineers a significant new resource for AI development and evaluation."
     },
     {
-      "title": "Claude Vulnerability Leaks Sensitive Data via Web Fetch",
-      "why": "This highlights a critical security flaw in LLM web_fetch tools, urging developers to be vigilant about data exposure when interacting with external services."
+      "title": "Claude Security Flaw: How Prompt Injection Leaked Secrets",
+      "why": "This article reveals critical prompt injection vulnerabilities in large language models, providing essential insights for developers focused on LLM security and reliability."
     },
     {
-      "title": "xAI Grok CLI Open-Sourced with Data Upload Controversy",
-      "why": "This article reveals the ethical and security risks associated with new AI development tools, emphasizing the need for careful review before integrating them into workflows."
+      "title": "Netflix's Approach to In-House LLM Serving",
+      "why": "It offers valuable insights into the practical challenges and architectural solutions for deploying and managing large language models at scale in a production environment."
     },
     {
-      "title": "Thinking Machines Lab Releases Inkling Open-Weight MoE",
-      "why": "The release of this new open-weight Mixture-of-Experts transformer provides a powerful and accessible option for AI researchers and developers."
+      "title": "xAI's Grok CLI Open Source with Critical Privacy Flaw",
+      "why": "The open-sourcing of xAI's Grok CLI tool, alongside a significant privacy vulnerability, serves as an important lesson in AI agent development and security best practices."
     },
     {
-      "title": "Claude Code Migrates to Bun in Rust for Performance",
-      "why": "This technical deep dive into Claude's adoption of Bun rewritten in Rust demonstrates how performance optimizations are achieved in large-scale AI infrastructure."
+      "title": "Running Firefox Entirely in WebAssembly",
+      "why": "This showcases a remarkable technical achievement in web development, demonstrating the potential for compiling complex applications into WebAssembly for browser-based execution."
     }
   ]
 }
