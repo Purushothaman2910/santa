@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-07-20T08:48:44Z",
+  "generatedAt": "2026-07-21T08:16:33Z",
   "items": [
     {
-      "title": "Kimi K3: A New 2.8 Trillion Parameter Open-Weight LLM",
-      "why": "This announces a powerful new open-weight large language model, offering engineers a significant new resource for AI development and evaluation."
+      "title": "Netflix Shares Insights on In-House LLM Serving",
+      "why": "This article provides a valuable case study on deploying and managing large language models in a production environment at scale."
     },
     {
-      "title": "Claude Security Flaw: How Prompt Injection Leaked Secrets",
-      "why": "This article reveals critical prompt injection vulnerabilities in large language models, providing essential insights for developers focused on LLM security and reliability."
+      "title": "Google Developing New AI Chip for Efficient Gemini Models",
+      "why": "Google's investment in custom AI hardware for Gemini highlights the crucial role of specialized silicon in optimizing AI model performance and cost."
     },
     {
-      "title": "Netflix's Approach to In-House LLM Serving",
-      "why": "It offers valuable insights into the practical challenges and architectural solutions for deploying and managing large language models at scale in a production environment."
+      "title": "Hugging Face Confirms Breach, Users Urged to Update Credentials",
+      "why": "A security breach at a major AI platform emphasizes the ongoing need for vigilance in protecting data and access tokens within the ML ecosystem."
     },
     {
-      "title": "xAI's Grok CLI Open Source with Critical Privacy Flaw",
-      "why": "The open-sourcing of xAI's Grok CLI tool, alongside a significant privacy vulnerability, serves as an important lesson in AI agent development and security best practices."
+      "title": "AI Agents Dramatically Reduce Reverse-Engineering Costs",
+      "why": "This illustrates how AI coding agents are significantly lowering the barrier and cost for tasks like reverse-engineering and automating complex systems."
     },
     {
-      "title": "Running Firefox Entirely in WebAssembly",
-      "why": "This showcases a remarkable technical achievement in web development, demonstrating the potential for compiling complex applications into WebAssembly for browser-based execution."
+      "title": "Anthropic's $1.5B Copyright Settlement Approved, Broader Issues Remain",
+      "why": "This landmark settlement underscores the critical and unresolved legal challenges concerning the use of copyrighted data for training AI models, impacting all AI development."
     }
   ]
 }
