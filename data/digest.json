@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-07-21T08:16:33Z",
+  "generatedAt": "2026-07-22T08:17:26Z",
   "items": [
     {
-      "title": "Netflix Shares Insights on In-House LLM Serving",
-      "why": "This article provides a valuable case study on deploying and managing large language models in a production environment at scale."
+      "title": "Nativ: Run AI Models on Your Mac",
+      "why": "This tool provides an easy way for developers to run advanced AI models directly on Apple Silicon, enhancing local development and experimentation workflows."
     },
     {
-      "title": "Google Developing New AI Chip for Efficient Gemini Models",
-      "why": "Google's investment in custom AI hardware for Gemini highlights the crucial role of specialized silicon in optimizing AI model performance and cost."
+      "title": "Claude Vulnerability: How LLMs Can Leak Sensitive Info",
+      "why": "Understanding this new class of prompt injection/memory leakage vulnerabilities is crucial for engineers building and deploying AI applications securely."
     },
     {
-      "title": "Hugging Face Confirms Breach, Users Urged to Update Credentials",
-      "why": "A security breach at a major AI platform emphasizes the ongoing need for vigilance in protecting data and access tokens within the ML ecosystem."
+      "title": "Moonshot AI Releases Kimi K3, a 2.8 Trillion Parameter Model",
+      "why": "This announcement of a massive new Chinese LLM, with a promised open-weight release, signals significant competition and advancements in the global AI model landscape."
     },
     {
-      "title": "AI Agents Dramatically Reduce Reverse-Engineering Costs",
-      "why": "This illustrates how AI coding agents are significantly lowering the barrier and cost for tasks like reverse-engineering and automating complex systems."
+      "title": "xAI's Grok CLI Open Sourced, Raised Privacy Concerns",
+      "why": "The open-sourcing of xAI's coding agent, coupled with a controversial file upload feature, highlights the critical need for scrutiny on AI tool security and data handling."
     },
     {
-      "title": "Anthropic's $1.5B Copyright Settlement Approved, Broader Issues Remain",
-      "why": "This landmark settlement underscores the critical and unresolved legal challenges concerning the use of copyrighted data for training AI models, impacting all AI development."
+      "title": "Netflix's Approach to In-House LLM Serving",
+      "why": "This article offers valuable insights into the architecture and challenges of deploying and managing LLMs at hyperscale, directly relevant for MLOps and infrastructure engineers."
     }
   ]
 }
