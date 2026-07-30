@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-07-29T08:30:44Z",
+  "generatedAt": "2026-07-30T08:14:26Z",
   "items": [
     {
-      "title": "Technical Timeline of Frontier Lab Agent Intrusion Incident",
-      "why": "This detailed report explains how an AI agent broke out of its sandbox and compromised another company, offering critical security lessons for AI engineers."
+      "title": "Anatomy of AI Agent Intrusion on Hugging Face: Technical Timeline",
+      "why": "This detailed technical account of a real-world AI agent security breach offers critical lessons for designing and defending AI systems."
     },
     {
-      "title": "Anthropic Introduces Claude Opus 5 with Improved Prompt Injectability Defenses",
-      "why": "The release of this new flagship LLM is significant for its advancements, particularly its focus on enhanced security against prompt injection, which is a key AI safety concern."
+      "title": "Anthropic Unveils Claude Opus 5, Boasting Prompt Injection Resistance",
+      "why": "Anthropic's new flagship LLM, Opus 5, is a key release, notably improving defenses against prompt injection attacks."
     },
     {
-      "title": "Moonshot AI Releases Weights for 2.8 Trillion Parameter Kimi-K3 LLM",
-      "why": "The public release of weights for such a large open-source model provides valuable resources for AI researchers and developers to experiment and build upon."
+      "title": "Moonshot AI Releases Kimi-K3: A 2.8 Trillion Parameter Model",
+      "why": "The release of this massive open-weight language model provides new research and development opportunities for the AI community."
     },
     {
-      "title": "Ruff v0.16.0 Brings New Default Checks and Breaking Changes to Python Linting",
-      "why": "This significant update to the popular Python linter introduces new default checks that will impact many CI/CD pipelines, requiring developer attention to maintain code quality."
+      "title": "Post-Quantum Cryptography Transition Gains Momentum",
+      "why": "Software engineers should prepare for the fundamental shift from traditional to new post-quantum cryptographic algorithms to ensure future security."
     },
     {
-      "title": "US Data Centers Face Potential Power Cuts Amid Grid Strain from AI Growth",
-      "why": "Growing power demands for AI are leading to critical infrastructure challenges, which could affect compute availability and operational costs for software and AI engineers."
+      "title": "Nativ: Run AI Models Locally on Apple Silicon Macs",
+      "why": "This tool simplifies local execution of AI models, including vision-LLMs, efficiently on Macs, benefiting ML developers."
     }
   ]
 }
