@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-07-30T08:14:26Z",
+  "generatedAt": "2026-07-31T08:41:28Z",
   "items": [
     {
-      "title": "Anatomy of AI Agent Intrusion on Hugging Face: Technical Timeline",
-      "why": "This detailed technical account of a real-world AI agent security breach offers critical lessons for designing and defending AI systems."
+      "title": "OpenAI drops GPT-5.6 prices by up to 80%",
+      "why": "This significant price reduction makes powerful OpenAI models more accessible and cost-effective for AI development and deployment."
     },
     {
-      "title": "Anthropic Unveils Claude Opus 5, Boasting Prompt Injection Resistance",
-      "why": "Anthropic's new flagship LLM, Opus 5, is a key release, notably improving defenses against prompt injection attacks."
+      "title": "Anthropic unveils Claude Opus 5 with improved prompt injection resistance",
+      "why": "A new, more robust foundational model with enhanced security against prompt injection directly impacts the design and deployment of safer AI applications."
     },
     {
-      "title": "Moonshot AI Releases Kimi-K3: A 2.8 Trillion Parameter Model",
-      "why": "The release of this massive open-weight language model provides new research and development opportunities for the AI community."
+      "title": "AI Worms can self-replicate through Microsoft Word via prompt injection",
+      "why": "This demonstrates a novel and dangerous prompt injection attack vector, highlighting the evolving security challenges with AI models."
     },
     {
-      "title": "Post-Quantum Cryptography Transition Gains Momentum",
-      "why": "Software engineers should prepare for the fundamental shift from traditional to new post-quantum cryptographic algorithms to ensure future security."
+      "title": "Hugging Face details technical timeline of OpenAI agent intrusion",
+      "why": "A deep dive into a real-world AI agent security breach offers critical lessons on sandboxing, threat detection, and incident response for AI systems."
     },
     {
-      "title": "Nativ: Run AI Models Locally on Apple Silicon Macs",
-      "why": "This tool simplifies local execution of AI models, including vision-LLMs, efficiently on Macs, benefiting ML developers."
+      "title": "Google fixed more Chrome bugs with AI in June than past two years",
+      "why": "This demonstrates a significant, real-world productivity boost and quality improvement in software development achieved through AI-powered tools."
     }
   ]
 }
