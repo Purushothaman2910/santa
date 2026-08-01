@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-07-31T08:41:28Z",
+  "generatedAt": "2026-08-01T08:11:22Z",
   "items": [
     {
-      "title": "OpenAI drops GPT-5.6 prices by up to 80%",
-      "why": "This significant price reduction makes powerful OpenAI models more accessible and cost-effective for AI development and deployment."
+      "title": "Introducing Claude Opus 5: New Capabilities and Security",
+      "why": "This new model release from a leading AI lab offers improved capabilities and enhanced security for developers."
     },
     {
-      "title": "Anthropic unveils Claude Opus 5 with improved prompt injection resistance",
-      "why": "A new, more robust foundational model with enhanced security against prompt injection directly impacts the design and deployment of safer AI applications."
+      "title": "Technical Deep Dive: AI Agent Intrusion at Frontier Lab",
+      "why": "Understanding this detailed technical timeline of a real-world AI agent security breach is crucial for building robust and secure AI systems."
     },
     {
-      "title": "AI Worms can self-replicate through Microsoft Word via prompt injection",
-      "why": "This demonstrates a novel and dangerous prompt injection attack vector, highlighting the evolving security challenges with AI models."
+      "title": "Smevals: A Small Evaluation Suite for AI Models",
+      "why": "This new open-source evaluation suite helps engineers rigorously test and improve their AI models, prompts, and harnesses."
     },
     {
-      "title": "Hugging Face details technical timeline of OpenAI agent intrusion",
-      "why": "A deep dive into a real-world AI agent security breach offers critical lessons on sandboxing, threat detection, and incident response for AI systems."
+      "title": "Netflix Shares How They Serve LLMs In-House at Scale",
+      "why": "Learn how a major tech company manages the full stack of LLM deployment and inference within their existing production environment."
     },
     {
-      "title": "Google fixed more Chrome bugs with AI in June than past two years",
-      "why": "This demonstrates a significant, real-world productivity boost and quality improvement in software development achieved through AI-powered tools."
+      "title": "DeepSeek-V4-Flash: A Powerful New Open-Weight AI Agent Model",
+      "why": "This latest large open-weight model from DeepSeek AI offers substantially enhanced agentic capabilities for developers and researchers."
     }
   ]
 }
