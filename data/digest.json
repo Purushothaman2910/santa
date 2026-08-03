@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-02T08:12:49Z",
+  "generatedAt": "2026-08-03T09:32:58Z",
   "items": [
     {
-      "title": "OpenAI's Breakthroughs in Math & Theoretical CS",
-      "why": "It highlights fundamental research breakthroughs underpinning AI, crucial for understanding future capabilities and limitations."
+      "title": "AI Agent Intrusion: Technical Timeline of a Real-World Incident",
+      "why": "This deep dive into a recent AI agent security breach provides crucial lessons for designing and securing AI systems."
     },
     {
-      "title": "DeepSeek Releases V4-Flash-0731 with Enhanced Agentic Capabilities",
-      "why": "Staying updated on the latest large language models and their specialized capabilities is vital for AI engineers developing new applications."
+      "title": "AI Worming via Prompt Injection Attacks in Microsoft Word",
+      "why": "This new variant of prompt injection highlights evolving security threats in AI applications and necessitates stronger defensive strategies."
     },
     {
-      "title": "Technical Timeline of a Frontier Lab AI Agent Intrusion",
-      "why": "Understanding real-world AI security incidents is critical for software engineers building and deploying robust and secure AI agents."
+      "title": "OpenAI's GPT-5.6 Sees Significant Price-Performance Improvements",
+      "why": "This major price drop for OpenAI's top models directly affects the cost-effectiveness and accessibility of advanced AI capabilities for developers."
     },
     {
-      "title": "Netflix Details In-House LLM Serving Architecture at Scale",
-      "why": "This offers valuable architectural and operational insights for software engineers managing complex AI infrastructure and MLOps."
+      "title": "DeepSeek-V4-Flash-0731: New Large Model with Agentic Capabilities Released",
+      "why": "The release of this powerful new large language model, especially with enhanced agentic capabilities, offers engineers new tools and capabilities to explore."
     },
     {
-      "title": "OpenAI Slashes GPT-5.6 Model Prices by up to 80%",
-      "why": "Significant price reductions for leading commercial LLMs directly influence project budgets and the economic viability of integrating AI into applications."
+      "title": "Smevals: A New Evaluation Suite for AI Models and Prompts",
+      "why": "This new evaluation suite provides practical tools and methodologies for rigorously testing and improving the performance of AI models and prompts."
     }
   ]
 }
