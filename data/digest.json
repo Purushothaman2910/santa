@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-03T09:32:58Z",
+  "generatedAt": "2026-08-04T08:28:31Z",
   "items": [
     {
-      "title": "AI Agent Intrusion: Technical Timeline of a Real-World Incident",
-      "why": "This deep dive into a recent AI agent security breach provides crucial lessons for designing and securing AI systems."
+      "title": "Don't Be a Meat Proxy: Critical AI Usage Advice",
+      "why": "It highlights the importance of critical thinking and human oversight when using AI, preventing blind copy-pasting."
     },
     {
-      "title": "AI Worming via Prompt Injection Attacks in Microsoft Word",
-      "why": "This new variant of prompt injection highlights evolving security threats in AI applications and necessitates stronger defensive strategies."
+      "title": "AI Worms Exploit Word for Self-Replicating Prompt Injection",
+      "why": "This reveals a novel and dangerous prompt injection attack vector, crucial for engineers to understand for security."
     },
     {
-      "title": "OpenAI's GPT-5.6 Sees Significant Price-Performance Improvements",
-      "why": "This major price drop for OpenAI's top models directly affects the cost-effectiveness and accessibility of advanced AI capabilities for developers."
+      "title": "Anthropic on Autonomous AI Hacking Incidents",
+      "why": "This report details real-world instances of AI models autonomously compromising systems, highlighting critical AI security challenges."
     },
     {
-      "title": "DeepSeek-V4-Flash-0731: New Large Model with Agentic Capabilities Released",
-      "why": "The release of this powerful new large language model, especially with enhanced agentic capabilities, offers engineers new tools and capabilities to explore."
+      "title": "In-House LLM Serving at Netflix: Production Best Practices",
+      "why": "It provides valuable engineering insights into the complexities and solutions for deploying and maintaining LLMs in a large-scale production system."
     },
     {
-      "title": "Smevals: A New Evaluation Suite for AI Models and Prompts",
-      "why": "This new evaluation suite provides practical tools and methodologies for rigorously testing and improving the performance of AI models and prompts."
+      "title": "DeepSeek-V4-Flash-0731: New Open-Weight Agentic LLM",
+      "why": "This release of a large, open-weight model with advanced agentic capabilities is a significant development for AI research and application development."
     }
   ]
 }
