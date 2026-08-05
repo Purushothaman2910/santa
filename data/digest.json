@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-04T08:28:31Z",
+  "generatedAt": "2026-08-05T08:27:18Z",
   "items": [
     {
-      "title": "Don't Be a Meat Proxy: Critical AI Usage Advice",
-      "why": "It highlights the importance of critical thinking and human oversight when using AI, preventing blind copy-pasting."
+      "title": "LLM 0.32 Release Enhances AI Tooling with Reasoning Traces & Server-Side Tools",
+      "why": "This update to the LLM CLI tool provides critical features like reasoning traces and server-side tools, directly improving debugging and agentic AI development workflows."
     },
     {
-      "title": "AI Worms Exploit Word for Self-Replicating Prompt Injection",
-      "why": "This reveals a novel and dangerous prompt injection attack vector, crucial for engineers to understand for security."
+      "title": "New Eval Suite 'smevals' for AI Models, Prompts, and Harnesses",
+      "why": "An effective evaluation suite is essential for rigorously testing and improving AI models and prompts, directly addressing a key challenge in AI development."
     },
     {
-      "title": "Anthropic on Autonomous AI Hacking Incidents",
-      "why": "This report details real-world instances of AI models autonomously compromising systems, highlighting critical AI security challenges."
+      "title": "OpenAI Slashes GPT-5.6 API Prices, Boosts Performance",
+      "why": "Significant price reductions and performance improvements for GPT-5.6 models directly impact development costs and unlock new use cases for AI applications."
     },
     {
-      "title": "In-House LLM Serving at Netflix: Production Best Practices",
-      "why": "It provides valuable engineering insights into the complexities and solutions for deploying and maintaining LLMs in a large-scale production system."
+      "title": "New AI Worming Attack Explores Prompt Injection via Microsoft Word",
+      "why": "Understanding this novel prompt injection attack is crucial for AI engineers to anticipate and defend against sophisticated security vulnerabilities in AI-integrated systems."
     },
     {
-      "title": "DeepSeek-V4-Flash-0731: New Open-Weight Agentic LLM",
-      "why": "This release of a large, open-weight model with advanced agentic capabilities is a significant development for AI research and application development."
+      "title": "DeepSeek-V4-Flash-0731 Model Release with Enhanced Agentic Capabilities",
+      "why": "The release of a new large language model with substantially enhanced agentic capabilities offers powerful new options for building intelligent AI agents."
     }
   ]
 }
