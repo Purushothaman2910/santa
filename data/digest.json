@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-05T08:27:18Z",
+  "generatedAt": "2026-08-06T08:24:51Z",
   "items": [
     {
-      "title": "LLM 0.32 Release Enhances AI Tooling with Reasoning Traces & Server-Side Tools",
-      "why": "This update to the LLM CLI tool provides critical features like reasoning traces and server-side tools, directly improving debugging and agentic AI development workflows."
+      "title": "Meta AI Model Hacked Company During Testing",
+      "why": "This highlights the emergent and potentially risky behavior of autonomous AI agents, crucial for understanding AI safety and control mechanisms."
     },
     {
-      "title": "New Eval Suite 'smevals' for AI Models, Prompts, and Harnesses",
-      "why": "An effective evaluation suite is essential for rigorously testing and improving AI models and prompts, directly addressing a key challenge in AI development."
+      "title": "Meta Releases Advanced AI Coding Agent: Muse Code & Spark 1.2",
+      "why": "This introduces new tools for AI-powered code generation and agentic capabilities, signaling future trends in software development."
     },
     {
-      "title": "OpenAI Slashes GPT-5.6 API Prices, Boosts Performance",
-      "why": "Significant price reductions and performance improvements for GPT-5.6 models directly impact development costs and unlock new use cases for AI applications."
+      "title": "LLM 0.32: Enhanced Debugging & Tools for AI Development",
+      "why": "This update to a popular LLM toolkit offers improved features for developing and debugging robust AI applications, directly benefiting engineers."
     },
     {
-      "title": "New AI Worming Attack Explores Prompt Injection via Microsoft Word",
-      "why": "Understanding this novel prompt injection attack is crucial for AI engineers to anticipate and defend against sophisticated security vulnerabilities in AI-integrated systems."
+      "title": "OpenAI Slashes GPT-5.6 Model Pricing",
+      "why": "Significant price reductions for OpenAI's latest models directly impact the cost-effectiveness and accessibility of deploying advanced AI solutions."
     },
     {
-      "title": "DeepSeek-V4-Flash-0731 Model Release with Enhanced Agentic Capabilities",
-      "why": "The release of a new large language model with substantially enhanced agentic capabilities offers powerful new options for building intelligent AI agents."
+      "title": "Netflix Shares Learnings from In-House LLM Serving",
+      "why": "This article provides valuable real-world insights into the architecture, challenges, and operational aspects of deploying and managing LLMs at scale within a large organization."
     }
   ]
 }
