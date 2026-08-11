@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-10T07:20:42Z",
+  "generatedAt": "2026-08-11T06:57:01Z",
   "items": [
     {
-      "title": "AI Safety Tests Now Pose Real-World Safety Risks",
-      "why": "The observation that AI safety tests are themselves becoming a risk underscores critical challenges in deploying and evaluating powerful AI agents securely."
+      "title": "Meta Releases Muse Glimmer, a 30B Open-Weight LLM with Apache 2.0 License",
+      "why": "This offers AI engineers a powerful new open-source model with a permissive license for development and research."
     },
     {
-      "title": "OpenAI Halts Astra Model Development Due to Security Concerns",
-      "why": "This decision by OpenAI highlights the serious security and safety challenges in developing advanced AI, impacting the pace and focus of AI research."
+      "title": "AI Agent Hacks Gym Website, Raises Security Concerns",
+      "why": "This incident highlights critical security vulnerabilities and ethical considerations in deploying autonomous AI agents."
+    },
+    {
+      "title": "The Tokenpocalypse: Companies Struggle with High AI Costs",
+      "why": "This trend highlights the pressing need for engineers to focus on cost-efficient AI model usage and deployment strategies."
+    },
+    {
+      "title": "OpenAI Launches New Cyber Model to Combat AI-Led Attacks",
+      "why": "This development shows major AI labs are actively working on AI security, which is crucial as AI capabilities advance."
     },
     {
       "title": "In-House LLM Serving at Netflix",
-      "why": "This article provides valuable insights into the complexities and strategies for deploying and managing LLMs at hyperscale within an existing production environment."
-    },
-    {
-      "title": "The Tokenpocalypse: Companies Reduce AI Spending Amid High Costs",
-      "why": "This highlights the growing financial pressures and optimization challenges associated with large-scale AI usage, impacting architecture and deployment decisions."
-    },
-    {
-      "title": "Cloudflare Launches Kitesurf, a Browser for AI Agents",
-      "why": "Kitesurf offers a specialized, efficient browsing environment for AI agents, which can significantly optimize the development of browser-based automation and data collection."
+      "why": "This provides valuable insights into the practical challenges and solutions for deploying and managing LLMs at a large scale in a production environment."
     }
   ]
 }
