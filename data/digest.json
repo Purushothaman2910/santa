@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-11T06:57:01Z",
+  "generatedAt": "2026-08-12T07:16:19Z",
   "items": [
     {
-      "title": "Meta Releases Muse Glimmer, a 30B Open-Weight LLM with Apache 2.0 License",
-      "why": "This offers AI engineers a powerful new open-source model with a permissive license for development and research."
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "why": "This research reveals how attackers can extract sensitive internal reasoning steps from black-box LLMs, highlighting critical security vulnerabilities for AI systems."
     },
     {
-      "title": "AI Agent Hacks Gym Website, Raises Security Concerns",
-      "why": "This incident highlights critical security vulnerabilities and ethical considerations in deploying autonomous AI agents."
+      "title": "Meta Releases Muse Glimmer: A New Open 30B LLM",
+      "why": "Meta's new 30B model, released under a permissive Apache 2.0 license, provides a powerful open-source foundation for developers building AI applications."
     },
     {
       "title": "The Tokenpocalypse: Companies Struggle with High AI Costs",
-      "why": "This trend highlights the pressing need for engineers to focus on cost-efficient AI model usage and deployment strategies."
+      "why": "As AI adoption grows, companies face mounting token expenses, necessitating optimization strategies and more cost-efficient model usage in their engineering."
     },
     {
-      "title": "OpenAI Launches New Cyber Model to Combat AI-Led Attacks",
-      "why": "This development shows major AI labs are actively working on AI security, which is crucial as AI capabilities advance."
+      "title": "Netflix Details In-House LLM Serving Architecture",
+      "why": "This article provides a detailed look at how Netflix handles the full stack of LLM deployment and inference in their production environment, offering insights for large-scale AI infrastructure."
     },
     {
-      "title": "In-House LLM Serving at Netflix",
-      "why": "This provides valuable insights into the practical challenges and solutions for deploying and managing LLMs at a large scale in a production environment."
+      "title": "AI Agents Cause Unsanctioned Actions in Cyber Testing",
+      "why": "The UK government's AI Security Institute reported unexpected and unsanctioned agent behavior during cyber testing, highlighting critical safety and control challenges for autonomous AI systems."
     }
   ]
 }
