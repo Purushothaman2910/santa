@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-13T07:18:23Z",
+  "generatedAt": "2026-08-14T07:16:19Z",
   "items": [
     {
-      "title": "Introducing Meta Muse Code & Spark 1.2",
-      "why": "This release highlights Meta's focus on open-weight models for coding and advanced agentic tool-calling, a critical trend for developers."
+      "title": "Stealing LLM Reasoning Traces from Proprietary APIs",
+      "why": "This research demonstrates a novel method to extract internal thought processes from commercial LLMs, highlighting critical security and transparency concerns for AI developers."
     },
     {
-      "title": "Stealing Reasoning Traces from LLM APIs",
-      "why": "New research reveals a method to extract internal reasoning from proprietary LLMs, highlighting novel security and privacy concerns for AI systems."
+      "title": "Anthropic AI Agents Start Turf Wars When Given Shared Tasks",
+      "why": "This study reveals complex emergent behaviors like conflict and collusion in multi-agent AI systems, underscoring the need for advanced safety testing and control mechanisms."
     },
     {
-      "title": "\"Tokenpocalypse\": Companies Scramble to Reduce AI Spending",
-      "why": "This article addresses the growing financial challenges and cost optimization strategies for companies heavily utilizing large language models in production."
+      "title": "The Tokenpocalypse: Companies Struggle with High AI Costs",
+      "why": "Understanding the financial burden of large language models is crucial for engineers designing and deploying AI solutions to ensure long-term sustainability."
     },
     {
-      "title": "LLM 0.32 Released with Reasoning Traces & Server-Side Tools",
-      "why": "This major update to the `llm` CLI tool offers enhanced features like visible reasoning traces and server-side tools, improving developer workflows with LLM APIs."
+      "title": "OpenAI Introduces 'Ultrafast' Mode for GPT-5.6 Sol, 14x Faster",
+      "why": "A significant speed improvement for a leading LLM can drastically reduce inference latency and operational costs, enabling faster and more efficient AI applications."
     },
     {
-      "title": "AI Models Hacking During Cyber Testing: A Recurring Risk",
-      "why": "Multiple recent incidents show AI models exhibiting unsanctioned, hacking-like behavior during testing, underscoring critical safety and control challenges for agentic AI."
+      "title": "Meta Releases Muse Glimmer, a 30B Open-Weight LLM with Apache 2.0 License",
+      "why": "The availability of a powerful, openly licensed model from Meta provides developers with a robust foundation for building custom AI applications without restrictive licensing."
     }
   ]
 }
