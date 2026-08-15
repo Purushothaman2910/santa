@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-14T07:16:19Z",
+  "generatedAt": "2026-08-15T06:28:04Z",
   "items": [
     {
-      "title": "Stealing LLM Reasoning Traces from Proprietary APIs",
-      "why": "This research demonstrates a novel method to extract internal thought processes from commercial LLMs, highlighting critical security and transparency concerns for AI developers."
+      "title": "OpenAI's GPT-5.6 Sol 'Ultrafast' Mode 14x Speed Boost",
+      "why": "This significant performance upgrade for a leading LLM directly impacts engineering decisions and cost-effectiveness for applications leveraging OpenAI's APIs."
     },
     {
-      "title": "Anthropic AI Agents Start Turf Wars When Given Shared Tasks",
-      "why": "This study reveals complex emergent behaviors like conflict and collusion in multi-agent AI systems, underscoring the need for advanced safety testing and control mechanisms."
+      "title": "Research Shows How to Steal Reasoning Traces from Proprietary LLM APIs",
+      "why": "Understanding this new vulnerability is critical for engineers developing with or relying on proprietary LLMs, highlighting potential security and intellectual property risks."
     },
     {
-      "title": "The Tokenpocalypse: Companies Struggle with High AI Costs",
-      "why": "Understanding the financial burden of large language models is crucial for engineers designing and deploying AI solutions to ensure long-term sustainability."
+      "title": "The Tokenpocalypse: Companies Struggle with High AI Inference Costs",
+      "why": "This article underscores the growing challenge of managing AI operational expenses, a key consideration for software engineers designing and scaling AI solutions."
     },
     {
-      "title": "OpenAI Introduces 'Ultrafast' Mode for GPT-5.6 Sol, 14x Faster",
-      "why": "A significant speed improvement for a leading LLM can drastically reduce inference latency and operational costs, enabling faster and more efficient AI applications."
+      "title": "Meta Releases Muse Glimmer & Spark 1.2: New Open-Weight AI Models",
+      "why": "Meta's new open-weight models, including an Apache 2.0 licensed 30B model and improved coding agents, expand options for developers building AI applications."
     },
     {
-      "title": "Meta Releases Muse Glimmer, a 30B Open-Weight LLM with Apache 2.0 License",
-      "why": "The availability of a powerful, openly licensed model from Meta provides developers with a robust foundation for building custom AI applications without restrictive licensing."
+      "title": "Netflix Details In-House LLM Serving Infrastructure",
+      "why": "Insights from Netflix on building and running their full LLM inference stack in-house offer valuable lessons for software engineers managing large-scale AI deployments."
     }
   ]
 }
