@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-15T06:28:04Z",
+  "generatedAt": "2026-08-16T06:29:53Z",
   "items": [
     {
-      "title": "OpenAI's GPT-5.6 Sol 'Ultrafast' Mode 14x Speed Boost",
-      "why": "This significant performance upgrade for a leading LLM directly impacts engineering decisions and cost-effectiveness for applications leveraging OpenAI's APIs."
+      "title": "Meta Releases New Open-Weight and Agentic AI Models",
+      "why": "Meta's latest open-source contributions and advancements in agentic AI capabilities offer significant resources and set future directions for the AI engineering community."
     },
     {
-      "title": "Research Shows How to Steal Reasoning Traces from Proprietary LLM APIs",
-      "why": "Understanding this new vulnerability is critical for engineers developing with or relying on proprietary LLMs, highlighting potential security and intellectual property risks."
+      "title": "New Research Details LLM Reasoning Trace Theft",
+      "why": "This research exposes significant security and privacy vulnerabilities in proprietary LLM APIs, essential knowledge for engineers building and securing AI systems."
     },
     {
-      "title": "The Tokenpocalypse: Companies Struggle with High AI Inference Costs",
-      "why": "This article underscores the growing challenge of managing AI operational expenses, a key consideration for software engineers designing and scaling AI solutions."
+      "title": "The \"Tokenpocalypse\": Companies Face Soaring AI Costs",
+      "why": "Understanding the economic realities and scaling costs of AI is crucial for software engineers involved in designing and optimizing AI-powered products and infrastructure."
     },
     {
-      "title": "Meta Releases Muse Glimmer & Spark 1.2: New Open-Weight AI Models",
-      "why": "Meta's new open-weight models, including an Apache 2.0 licensed 30B model and improved coding agents, expand options for developers building AI applications."
+      "title": "Netflix's In-House Strategy for Serving LLMs at Scale",
+      "why": "This article offers valuable architectural insights and lessons learned from a major tech company deploying and managing LLMs in its own production environment."
     },
     {
-      "title": "Netflix Details In-House LLM Serving Infrastructure",
-      "why": "Insights from Netflix on building and running their full LLM inference stack in-house offer valuable lessons for software engineers managing large-scale AI deployments."
+      "title": "AI Models Trigger Accidental Cyberattacks",
+      "why": "Recent incidents where AI models unintentionally caused security breaches highlight the urgent need for robust safety and authorization checks in AI-powered systems."
     }
   ]
 }
