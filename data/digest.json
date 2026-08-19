@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-18T06:33:01Z",
+  "generatedAt": "2026-08-19T06:33:48Z",
   "items": [
     {
-      "title": "Qwen 3.8 27B: Powerful but Prone to Overthinking",
-      "why": "Software engineers working with LLMs need to understand model quirks, and this highlights a common challenge with new, powerful open-source models."
+      "title": "Mojo is Now Open Source",
+      "why": "This is a major step for a language designed for AI performance, enabling wider adoption and contributions from the software engineering community."
     },
     {
-      "title": "New Paper Explores Stealing LLM Reasoning Traces",
-      "why": "Understanding methods to extract reasoning traces from proprietary LLMs is vital for security, transparency, and competitive analysis in AI."
+      "title": "Netflix's In-House LLM Serving: Full Stack Deployment",
+      "why": "This deep dive into Netflix's approach to running its entire LLM inference stack in-house offers valuable lessons for MLOps and distributed systems."
     },
     {
-      "title": "The 'Tokenpocalypse': Companies Cut AI Spending",
-      "why": "This highlights the growing financial burden of large language model usage, forcing companies to optimize AI spending and efficiency."
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "why": "This research reveals a new method for reverse-engineering LLM behavior, posing significant implications for intellectual property and model security."
     },
     {
-      "title": "Netflix's Approach to In-House LLM Serving at Scale",
-      "why": "Operating LLMs in-house at Netflix's scale offers critical lessons in model deployment, inference optimization, and MLOps challenges."
+      "title": "The Tokenpocalypse: Companies Struggle with High AI Spending",
+      "why": "This highlights the significant financial challenges companies face with current LLM token costs, driving a need for cost optimization in AI development."
     },
     {
-      "title": "Nvidia Invests $1.5B in SoftBank AI Data Center",
-      "why": "This massive investment from Nvidia secures its position as a key supplier for AI infrastructure, including for major players like OpenAI."
+      "title": "Amazon AI Training Facility Tracked Using Rare Books",
+      "why": "This highlights the often opaque and ethically questionable methods used for acquiring training data for large AI models."
     }
   ]
 }
