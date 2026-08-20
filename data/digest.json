@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-19T06:33:48Z",
+  "generatedAt": "2026-08-20T06:35:40Z",
   "items": [
     {
-      "title": "Mojo is Now Open Source",
-      "why": "This is a major step for a language designed for AI performance, enabling wider adoption and contributions from the software engineering community."
+      "title": "Mojo Programming Language Now Open Source",
+      "why": "This release expands access to a high-performance language designed for AI development, crucial for engineers building efficient ML systems."
     },
     {
-      "title": "Netflix's In-House LLM Serving: Full Stack Deployment",
-      "why": "This deep dive into Netflix's approach to running its entire LLM inference stack in-house offers valuable lessons for MLOps and distributed systems."
+      "title": "SmolVM for Sandboxing Untrusted Python & JavaScript",
+      "why": "Understanding secure execution environments for untrusted code is vital for software engineers integrating AI agents or user-generated scripts safely."
     },
     {
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "why": "This research reveals a new method for reverse-engineering LLM behavior, posing significant implications for intellectual property and model security."
+      "title": "Techniques to Extract Reasoning Traces from Proprietary LLMs",
+      "why": "This research highlights methods for understanding and potentially exploiting LLM internal processes, raising important security and transparency considerations for AI developers."
     },
     {
-      "title": "The Tokenpocalypse: Companies Struggle with High AI Spending",
-      "why": "This highlights the significant financial challenges companies face with current LLM token costs, driving a need for cost optimization in AI development."
+      "title": "Meta Releases Muse Glimmer 30B: A New Open-Weight LLM",
+      "why": "The launch of a new Apache 2.0 licensed, open-weight model from Meta provides more powerful and flexible options for developers building AI applications."
     },
     {
-      "title": "Amazon AI Training Facility Tracked Using Rare Books",
-      "why": "This highlights the often opaque and ethically questionable methods used for acquiring training data for large AI models."
+      "title": "Natural Language Transformations Are Not Lossless",
+      "why": "This principle is essential for engineers working with AI-generated or AI-processed text, reminding them that inherent meaning is often lost or altered."
     }
   ]
 }
