@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-20T06:35:40Z",
+  "generatedAt": "2026-08-21T06:35:50Z",
   "items": [
     {
-      "title": "Mojo Programming Language Now Open Source",
-      "why": "This release expands access to a high-performance language designed for AI development, crucial for engineers building efficient ML systems."
+      "title": "Mojo Programming Language is Now Open Source",
+      "why": "This makes a high-performance language designed for AI development accessible to a broader engineering community, potentially accelerating AI innovation."
     },
     {
-      "title": "SmolVM for Sandboxing Untrusted Python & JavaScript",
-      "why": "Understanding secure execution environments for untrusted code is vital for software engineers integrating AI agents or user-generated scripts safely."
+      "title": "Meta Releases Muse Glimmer, a New Open-Source 30B Agentic Model",
+      "why": "Engineers can now experiment with and build upon a new, permissively licensed open-source agentic LLM from Meta, broadening choices beyond existing models."
     },
     {
-      "title": "Techniques to Extract Reasoning Traces from Proprietary LLMs",
-      "why": "This research highlights methods for understanding and potentially exploiting LLM internal processes, raising important security and transparency considerations for AI developers."
+      "title": "Sandboxing Untrusted Python & JavaScript with smolvm/smolmachines",
+      "why": "This research offers robust solutions for securely executing untrusted code, critical for platforms allowing user-generated scripts or LLM-generated extensions."
     },
     {
-      "title": "Meta Releases Muse Glimmer 30B: A New Open-Weight LLM",
-      "why": "The launch of a new Apache 2.0 licensed, open-weight model from Meta provides more powerful and flexible options for developers building AI applications."
+      "title": "Ramp Launches 'Router' for Managing Multiple AI Models via API",
+      "why": "This tool provides a unified API to access and switch between various large language models, simplifying the architecture for AI application development."
     },
     {
-      "title": "Natural Language Transformations Are Not Lossless",
-      "why": "This principle is essential for engineers working with AI-generated or AI-processed text, reminding them that inherent meaning is often lost or altered."
+      "title": "JSON API for Programmatic Scraping Using Bun 1.4's WebView",
+      "why": "Engineers can leverage Bun's new WebView feature to build efficient, programmatic web scraping and automation tools with a modern JavaScript runtime."
     }
   ]
 }
