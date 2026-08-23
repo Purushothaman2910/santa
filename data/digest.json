@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-22T06:29:54Z",
+  "generatedAt": "2026-08-23T06:31:10Z",
   "items": [
     {
-      "title": "Mojo is Now Open Source",
-      "why": "This release brings a high-performance programming language designed for AI development to the open-source community, enabling wider adoption and contribution."
+      "title": "Mojo, the AI Programming Language, is Now Open Source",
+      "why": "The open-sourcing of Mojo is a major event for AI engineers, as it aims to combine Python's usability with C's performance for AI workloads."
     },
     {
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "why": "This research explores techniques to extract internal thought processes from black-box LLMs, offering insights into their behavior and potential security implications."
+      "title": "Linus Torvalds on AI-Assisted Debugging",
+      "why": "It highlights a practical, high-impact use case of AI in core software development, endorsed by a highly respected figure."
     },
     {
-      "title": "Netflix Shares Insights on In-House LLM Serving",
-      "why": "This article provides critical architectural and operational lessons from Netflix on deploying and managing large language models within their existing production environment."
+      "title": "The New Skill for Working with AI Coding Agents",
+      "why": "This emphasizes that interacting effectively with AI agents requires new skills beyond traditional code review, which is crucial for software engineers to adapt."
     },
     {
-      "title": "Meta Releases Muse Glimmer, an Open-Weight Agentic LLM",
-      "why": "Meta's new 30B parameter Muse Glimmer model, released under a permissive Apache 2.0 license, expands the options for open-source AI development."
+      "title": "Nvidia: AI Agent Harness, Not Model, is the Real Hero",
+      "why": "This emphasizes that the surrounding orchestration and fine-tuning are becoming more critical than the base AI model itself for successful agent deployment."
     },
     {
-      "title": "Nvidia Highlights Harness over AI Model for Agent Performance",
-      "why": "Nvidia's research underscores the growing importance of fine-tuning and orchestration ('the harness') in achieving reliable and performant AI agent behavior, rather than solely focusing on the base model's capabilities."
+      "title": "Frontier AI Labs Lack Plans for Rogue Model Containment",
+      "why": "This highlights a critical and unresolved safety issue in the development of advanced AI, directly relevant to responsible AI engineering."
     }
   ]
 }
