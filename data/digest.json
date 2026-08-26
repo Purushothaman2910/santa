@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-25T06:36:46Z",
+  "generatedAt": "2026-08-26T06:38:07Z",
   "items": [
     {
-      "title": "Mojo Language is Now Open Source",
-      "why": "A new, highly anticipated language designed for AI/ML performance is now open source, offering potential benefits for high-performance AI development."
+      "title": "Mojo\ud83d\udd25 is now open source",
+      "why": "Mojo becoming open source is a significant event for AI engineers, introducing a high-performance language that combines Python's usability with C's speed for ML tasks."
     },
     {
-      "title": "OpenAI's Push Towards Ubiquitous AI Agents",
-      "why": "This highlights a significant strategic direction from a leading AI lab, signaling the increasing importance and potential impact of autonomous AI agents on software."
+      "title": "In-House LLM Serving at Netflix",
+      "why": "Understanding how a major tech company like Netflix serves LLMs in-house offers critical lessons for designing robust and scalable AI inference systems."
     },
     {
-      "title": "Netflix's Strategy for In-House LLM Serving",
-      "why": "Gain practical insights into how a large tech company manages the complexities of deploying and operating LLMs within its own production environment."
+      "title": "Effective Instruction & Verification for AI Coding Agents",
+      "why": "This article offers practical advice on effectively instructing and verifying the output of AI coding agents, a crucial skill as AI integrates deeper into development workflows."
     },
     {
-      "title": "Using SQLite Databases as Executable Binaries",
-      "why": "Discover a clever Linux pattern that enables creating self-contained, executable SQLite database files, offering a unique approach to data and application packaging."
+      "title": "Sandboxing Untrusted Code with smolmachines/smolvm",
+      "why": "Exploring lightweight sandboxing solutions for untrusted code, particularly relevant for safely executing AI-generated or plugin code in modern applications."
     },
     {
-      "title": "Alabama Investigates OpenAI's Hugging Face 'Hack'",
-      "why": "This critical news highlights growing concerns about AI model security, misuse, and the legal implications of advanced AI capabilities."
+      "title": "Anthropic's AI Model Struggles vs. Cheaper Tools",
+      "why": "This highlights the competitive AI landscape, where model adoption is increasingly driven by cost-effectiveness and accessibility rather than just raw performance."
     }
   ]
 }
