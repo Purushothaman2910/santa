@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-26T06:38:07Z",
+  "generatedAt": "2026-08-27T17:13:28Z",
   "items": [
     {
-      "title": "Mojo\ud83d\udd25 is now open source",
-      "why": "Mojo becoming open source is a significant event for AI engineers, introducing a high-performance language that combines Python's usability with C's speed for ML tasks."
+      "title": "Mojo Programming Language is Now Open Source",
+      "why": "This release is crucial for engineers working on high-performance AI systems, offering a Python-like syntax with systems-level control."
     },
     {
-      "title": "In-House LLM Serving at Netflix",
-      "why": "Understanding how a major tech company like Netflix serves LLMs in-house offers critical lessons for designing robust and scalable AI inference systems."
+      "title": "AI Wrote & Refined 1M Lines of Code, Paul Dix Suggests 'End of Programming'",
+      "why": "It demonstrates the disruptive potential of AI in automating large-scale software development, changing the role of human programmers."
     },
     {
-      "title": "Effective Instruction & Verification for AI Coding Agents",
-      "why": "This article offers practical advice on effectively instructing and verifying the output of AI coding agents, a crucial skill as AI integrates deeper into development workflows."
+      "title": "Netflix Builds In-House LLM Serving Infrastructure",
+      "why": "This offers valuable insights into the architectural and operational challenges of deploying and managing LLMs at scale for platform and ML Ops engineers."
     },
     {
-      "title": "Sandboxing Untrusted Code with smolmachines/smolvm",
-      "why": "Exploring lightweight sandboxing solutions for untrusted code, particularly relevant for safely executing AI-generated or plugin code in modern applications."
+      "title": "Qwen3.8-Flash-Next: A New Multimodal MoE Open-Source AI Model",
+      "why": "Keeping up with cutting-edge open-source models is vital for AI engineers exploring new architectures and capabilities."
     },
     {
-      "title": "Anthropic's AI Model Struggles vs. Cheaper Tools",
-      "why": "This highlights the competitive AI landscape, where model adoption is increasingly driven by cost-effectiveness and accessibility rather than just raw performance."
+      "title": "Anthropic's Top AI Model Faces User Adoption Challenges Amid Cheaper Alternatives",
+      "why": "This reveals important market trends and competitive pressures in the AI industry, influencing model selection and business strategy."
     }
   ]
 }
