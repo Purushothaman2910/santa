@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-28T18:03:25Z",
+  "generatedAt": "2026-08-29T12:07:38Z",
   "items": [
     {
-      "title": "Mojo Programming Language is Now Open Source",
-      "why": "The open-sourcing of Mojo is significant for AI/ML developers, offering a new, potentially high-performance language option for system programming in the AI stack."
+      "title": "Breaking Claude Code Opus 5 Auto Mode: Prompt Injection Vulnerabilities",
+      "why": "Understanding prompt injection risks is crucial for engineers building and securing AI-powered coding agents."
     },
     {
-      "title": "AI Wrote 1M Lines of Code and Refined It",
-      "why": "This anecdote illustrates the rapidly advancing capability of AI to autonomously develop and refine large software projects, impacting the future of programming."
+      "title": "AI Generates and Refines 1M Lines of Code for Production Use",
+      "why": "This highlights the unprecedented productivity gains and evolving role of AI in complex software development."
     },
     {
-      "title": "Extensible Software with LLMs and Sandboxes: A New Opportunity",
-      "why": "This hypothesis suggests a renewed opportunity for extensible software platforms, enabled by LLMs lowering extension authoring costs and modern sandboxes reducing deployment risk."
+      "title": "Mojo\ud83d\udd25 Programming Language is Now Open Source",
+      "why": "This open-source release makes a high-performance language designed for AI/ML development accessible to a broader engineering community."
     },
     {
-      "title": "Secure Sandboxing for Untrusted Code with smolmachines/smolvm",
-      "why": "This research explores using lightweight virtual machines for securely sandboxing untrusted Python and JavaScript code, a critical topic for platform and security engineers."
+      "title": "Netflix Details Strategy for In-House LLM Serving at Scale",
+      "why": "Learning how Netflix handles full-stack LLM deployment provides valuable insights into large-scale AI infrastructure."
     },
     {
-      "title": "LLM Development Shift: Focus on Coding Harnesses as Moore's Law Ends",
-      "why": "This suggests marginal gains from new LLMs are diminishing, prompting engineers to invest more in prompt engineering and tooling for practical AI development."
+      "title": "Anthropic Researchers Unveil Self-Improving AI Systems",
+      "why": "This research demonstrates advancements in AI's ability to improve its own performance, signaling a significant future trend."
     }
   ]
 }
