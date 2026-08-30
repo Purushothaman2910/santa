@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-29T12:07:38Z",
+  "generatedAt": "2026-08-30T11:04:00Z",
   "items": [
     {
-      "title": "Breaking Claude Code Opus 5 Auto Mode: Prompt Injection Vulnerabilities",
-      "why": "Understanding prompt injection risks is crucial for engineers building and securing AI-powered coding agents."
+      "title": "Mojo AI Language is Now Open Source",
+      "why": "This release makes a high-performance language specifically for AI development accessible to all, potentially transforming AI infrastructure."
     },
     {
-      "title": "AI Generates and Refines 1M Lines of Code for Production Use",
-      "why": "This highlights the unprecedented productivity gains and evolving role of AI in complex software development."
+      "title": "Claude Code Auto Mode Vulnerable to Prompt Injection",
+      "why": "This highlights critical security risks in AI coding agents, underscoring the need for robust prompt injection defenses in AI-powered tools."
     },
     {
-      "title": "Mojo\ud83d\udd25 Programming Language is Now Open Source",
-      "why": "This open-source release makes a high-performance language designed for AI/ML development accessible to a broader engineering community."
+      "title": "Netflix Pioneers In-House LLM Serving",
+      "why": "Netflix's approach to running full-stack LLM inference provides a valuable case study for organizations considering custom AI infrastructure."
     },
     {
-      "title": "Netflix Details Strategy for In-House LLM Serving at Scale",
-      "why": "Learning how Netflix handles full-stack LLM deployment provides valuable insights into large-scale AI infrastructure."
+      "title": "Amazon AI Training Linked to Rare Book Shipments",
+      "why": "This investigative report sheds light on the often-opaque origins of AI training data, raising important ethical and legal questions for developers."
     },
     {
-      "title": "Anthropic Researchers Unveil Self-Improving AI Systems",
-      "why": "This research demonstrates advancements in AI's ability to improve its own performance, signaling a significant future trend."
+      "title": "Anthropic Reveals Self-Improving AI Systems",
+      "why": "Research showing automated improvement in AI alignment benchmarks suggests a significant step towards more reliable and safer autonomous AI systems."
     }
   ]
 }
