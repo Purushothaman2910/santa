@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-08-31T12:26:27Z",
+  "generatedAt": "2026-09-02T10:25:01Z",
   "items": [
     {
-      "title": "Mojo\ud83d\udd25 Programming Language is Now Open Source",
-      "why": "The open-sourcing of Mojo, designed for AI and high-performance computing, offers new tools and possibilities for developers."
+      "title": "OpenAI's Astra Model Excels at System Infiltration",
+      "why": "This highlights emerging AI capabilities with significant cybersecurity implications, urging engineers to understand potential threats and safeguards."
     },
     {
-      "title": "Prompt Injection Attacks Against Claude Code Opus 5 Auto Mode",
-      "why": "This report highlights critical prompt injection vulnerabilities in a leading AI coding agent, essential for securing AI-powered development."
+      "title": "Netflix Deploys LLMs In-House, Managing Full Stack",
+      "why": "It offers valuable insights into the architectural and operational challenges of serving large language models at scale within a proprietary environment."
     },
     {
-      "title": "Anthropic's Peek at Self-Improving AI for Misaligned Behaviors",
-      "why": "New research from Anthropic demonstrates how automated systems can autonomously improve specific misaligned AI behaviors without degrading overall performance."
+      "title": "Python 3.15.0 Release Candidate 2 Now Available",
+      "why": "Staying updated on core language advancements is crucial for all Python developers, impacting performance, features, and library compatibility."
     },
     {
-      "title": "Nvidia's Shifting AI Advantage: Beyond GPUs to Smarter Data Centers",
-      "why": "Nvidia's evolving strategy emphasizes efficiency through smarter data center traffic control over raw processing, crucial for scalable AI deployments."
+      "title": "Prompt Injection Exploit for Claude Code Opus 5 Auto Mode",
+      "why": "This demonstrates a critical security vulnerability in AI coding agents, important for developers building with or relying on these tools."
     },
     {
-      "title": "Tencent Introduces Hy4 Preview: 770B Parameter LLM with 1M Context",
-      "why": "This new open-weight LLM with a massive context window from Tencent represents a significant advancement in the accessible large language model landscape."
+      "title": "Linus Torvalds Endorses AI for Linux Kernel Debugging",
+      "why": "It highlights a practical, real-world application of AI in complex software debugging, offering a tangible example of its utility to engineers."
     }
   ]
 }
