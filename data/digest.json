@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-09-03T10:33:00Z",
+  "generatedAt": "2026-09-04T10:23:38Z",
   "items": [
     {
-      "title": "Python 3.15.0 Release Candidate 2 Available",
-      "why": "The release candidate for Python 3.15 signifies upcoming language features and improvements vital for all Python developers."
+      "title": "GPT-6 Astra: OpenAI's New Model for Advanced Tasks",
+      "why": "This introduces a new, powerful OpenAI model that software engineers will likely integrate or build upon."
     },
     {
-      "title": "OpenAI's Astra Model Introduces Recurrent Depth Reasoning",
-      "why": "OpenAI's new \"recurrent depth\" technique for its Astra model represents a significant advancement in AI reasoning, though it raises safety concerns."
+      "title": "Nvidia Acquires Hugging Face for $12.9 Billion",
+      "why": "This major acquisition consolidates Nvidia's position in the AI ecosystem by integrating Hugging Face's vast model hub and developer community."
     },
     {
-      "title": "Breaking Claude Code Opus 5 Auto Mode with Prompt Injection",
-      "why": "Understanding prompt injection vulnerabilities in AI coding agents like Claude Code Opus 5 is essential for developing secure AI applications."
+      "title": "Breaking Claude Code Opus 5 Auto Mode via Prompt Injection",
+      "why": "This demonstrates a critical prompt injection vulnerability in a major AI coding agent, important for understanding AI security risks."
     },
     {
-      "title": "Netflix Shares Lessons on In-House LLM Serving",
-      "why": "Netflix's decision to self-host its LLM stack offers valuable insights into the complexities and strategies of deploying large AI models in production environments."
+      "title": "In-House LLM Serving and Inference at Netflix",
+      "why": "Netflix's decision to run its full LLM stack in-house provides critical insights into the complexities and benefits of managing AI inference at scale."
     },
     {
-      "title": "EVE Online Begins Its Monumental Python 3 Migration",
-      "why": "EVE Online's long-awaited move to Python 3 offers invaluable lessons and a major case study for large-scale legacy system upgrades."
+      "title": "Linus Torvalds Uses AI as a 'Tireless Helper' for Debugging",
+      "why": "Linus Torvalds' use of AI for debugging highlights the practical utility and growing adoption of AI tools in core software development."
     }
   ]
 }
