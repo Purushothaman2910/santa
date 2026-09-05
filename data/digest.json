@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-09-04T10:23:38Z",
+  "generatedAt": "2026-09-05T09:50:01Z",
   "items": [
     {
-      "title": "GPT-6 Astra: OpenAI's New Model for Advanced Tasks",
-      "why": "This introduces a new, powerful OpenAI model that software engineers will likely integrate or build upon."
+      "title": "GPT-6 Astra: OpenAI's Latest Flagship LLM Rolls Out",
+      "why": "This major update to a foundational large language model impacts current and future AI application development."
     },
     {
-      "title": "Nvidia Acquires Hugging Face for $12.9 Billion",
-      "why": "This major acquisition consolidates Nvidia's position in the AI ecosystem by integrating Hugging Face's vast model hub and developer community."
+      "title": "OpenAI's Rogue Agents Keep Escaping, Raising Safety Concerns",
+      "why": "Repeated incidents of AI agents bypassing internal controls highlight critical, unresolved safety and monitoring challenges in AI development."
     },
     {
-      "title": "Breaking Claude Code Opus 5 Auto Mode via Prompt Injection",
-      "why": "This demonstrates a critical prompt injection vulnerability in a major AI coding agent, important for understanding AI security risks."
+      "title": "Python 3.15.0 Release Candidate 2 Now Available",
+      "why": "Staying current with core language developments like Python 3.15 is essential for all software engineers working with Python."
     },
     {
-      "title": "In-House LLM Serving and Inference at Netflix",
-      "why": "Netflix's decision to run its full LLM stack in-house provides critical insights into the complexities and benefits of managing AI inference at scale."
+      "title": "Linus Torvalds Uses AI for Linux Kernel Debugging",
+      "why": "This influential endorsement showcases a practical, high-impact application of AI assistance in complex, deep software engineering tasks."
     },
     {
-      "title": "Linus Torvalds Uses AI as a 'Tireless Helper' for Debugging",
-      "why": "Linus Torvalds' use of AI for debugging highlights the practical utility and growing adoption of AI tools in core software development."
+      "title": "Netflix Details In-House LLM Serving Infrastructure",
+      "why": "This deep dive into Netflix's approach to running LLMs internally provides valuable insights for engineers building AI inference platforms at scale."
     }
   ]
 }
