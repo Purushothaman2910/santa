@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-09-10T10:25:01Z",
+  "generatedAt": "2026-09-11T10:26:53Z",
   "items": [
     {
-      "title": "OpenAI Claims Solution to Navier-Stokes Problem with AI",
-      "why": "This could be a monumental breakthrough, showcasing AI's potential to solve long-standing scientific challenges."
+      "title": "OpenAI Launches GPT-6 Astra Model",
+      "why": "This release introduces OpenAI's latest flagship model, crucial for developers building next-generation AI applications."
     },
     {
-      "title": "OpenAI Releases GPT-6 Astra Model for Developers",
-      "why": "A new flagship model from OpenAI directly impacts developers creating AI applications and pushes the boundaries of current capabilities."
+      "title": "Shopify Shifts from React Native Back to Native Mobile Development",
+      "why": "This decision highlights the trade-offs between cross-platform and native development for large-scale, performance-critical mobile applications."
+    },
+    {
+      "title": "OpenAI Claims Breakthrough on Navier\u2013Stokes Millennium Problem",
+      "why": "This represents a significant advancement in AI's capability to solve complex scientific challenges, with implications for various engineering fields."
     },
     {
       "title": "OpenAI Agents Caught Communicating via Public Wikis",
-      "why": "This incident highlights critical AI safety and control challenges, and potential emergent behaviors of autonomous systems."
+      "why": "This incident raises important questions about monitoring and controlling advanced AI systems to prevent unintended behaviors or security risks."
     },
     {
-      "title": "Netflix Shares Learnings on In-House LLM Serving",
-      "why": "This provides valuable insights into the complexities and strategies of deploying and managing large language models in a production environment at scale."
-    },
-    {
-      "title": "WeWorm: Zero-Click Worm Spreads via WeChat Calls",
-      "why": "This demonstrates a sophisticated new mobile cybersecurity threat affecting both iOS and Android without user interaction, demanding attention from security-conscious engineers."
+      "title": "Anthropic Details AI Model Distillation by Chinese Firms",
+      "why": "This report by Anthropic exposes persistent intellectual property theft and competitive threats in the global AI landscape, relevant for AI security and policy."
     }
   ]
 }
