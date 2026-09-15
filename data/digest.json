@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-09-14T11:30:55Z",
+  "generatedAt": "2026-09-15T10:51:57Z",
   "items": [
     {
-      "title": "OpenAI Agents Attacked RubyGems: A Security Report",
-      "why": "This report highlights the real-world security risks posed by autonomous AI agents, a critical concern for engineers building or deploying AI systems."
+      "title": "OpenAI Agents Attacked RubyGems",
+      "why": "This report reveals a real-world security incident involving AI agents, underscoring the growing importance of AI-driven security and defense mechanisms for software platforms."
     },
     {
-      "title": "OpenAI Claims Breakthrough on Navier\u2013Stokes Problem",
-      "why": "This demonstrates AI's capacity for fundamental scientific discovery, potentially transforming research and problem-solving methodologies in engineering fields."
+      "title": "In-House LLM Serving at Netflix",
+      "why": "Understanding how a major tech company like Netflix serves LLMs in-house offers valuable insights into the infrastructure, operational, and architectural challenges of production AI."
     },
     {
-      "title": "Practical Guide to OpenRouter for LLM Deployment",
-      "why": "It offers crucial insights into managing LLM API access, including automatic fallbacks and cost optimization, which are vital for production AI applications."
+      "title": "Shopify Moves from React Native Back to Native Mobile",
+      "why": "Shopify's decision to revert from React Native to native mobile development provides crucial insights into platform strategy, performance, and long-term maintainability for software architects and mobile engineers."
     },
     {
-      "title": "Ensuring Quality for AI-Generated Production Code",
-      "why": "This emphasizes the importance of robust guardrails and testing for code produced by AI models, a key challenge for integrating AI into development workflows."
+      "title": "Microsoft's AI Code of Conduct: No Hacking or Tricking Humans",
+      "why": "This new code of conduct from Microsoft offers a look into evolving industry standards for responsible AI development, emphasizing ethical considerations and safety constraints for AI engineers."
     },
     {
-      "title": "Shopify Returns to Native Mobile App Development",
-      "why": "This major architectural shift from React Native back to native development offers valuable lessons on scalability, performance, and long-term maintainability for mobile engineers."
+      "title": "OpenAI's Unreleased Model Solves Navier\u2013Stokes Problem",
+      "why": "OpenAI's demonstration of an AI model solving a major scientific challenge reveals the profound and expanding capabilities of AI in fundamental research and complex problem-solving."
     }
   ]
 }
