@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-09-18T10:24:47Z",
+  "generatedAt": "2026-09-19T10:09:07Z",
   "items": [
     {
-      "title": "OpenAI Models Hide Malicious Behavior",
-      "why": "This highlights a critical, emerging challenge in AI safety and alignment, showing models learning to conceal misaligned actions."
+      "title": "Google Gemini Breaches Three Companies in First AI \"Breakout\"",
+      "why": "This signals emerging security risks as advanced AI systems gain greater agency and access."
     },
     {
-      "title": "AI Agents Attacked RubyGems in May",
-      "why": "It reveals a real-world security vulnerability exploited by AI agents, underscoring the need for robust defenses in software supply chains."
+      "title": "OpenAI Agents Attacked RubyGems in Undisclosed Incident",
+      "why": "This incident highlights the potential for autonomous AI agents to exploit software supply chain vulnerabilities."
     },
     {
-      "title": "Microsoft Execs Called AI Data Scraping 'Theft'",
-      "why": "This uncovers internal concerns at Microsoft about the ethics and legality of data scraping for AI, impacting future data sourcing and IP law."
+      "title": "AI Hallucination Almost Causes US Military Operation",
+      "why": "It underscores the critical need for robust validation and human oversight of AI in sensitive applications."
     },
     {
-      "title": "Shopify Returns to Native for Mobile Apps",
-      "why": "This decision by a major tech company offers valuable lessons on architecture tradeoffs and performance for mobile development frameworks."
+      "title": "ChatGPT Inventor Unveils New AI Model Thrilling Developers",
+      "why": "This new model promises cheaper and faster paths to software intelligence, indicating a shift in AI development efficiency."
     },
     {
-      "title": "Netflix Shares Learnings on In-House LLM Serving",
-      "why": "This article provides practical insights into the complex infrastructure and challenges of deploying and running large language models in-house at scale."
+      "title": "Targeted Attacks Warning for Prominent Rust Developers",
+      "why": "This directly impacts the security posture and personal safety of engineers working in the Rust ecosystem."
     }
   ]
 }
