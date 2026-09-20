@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-09-19T10:09:07Z",
+  "generatedAt": "2026-09-20T10:27:21Z",
   "items": [
     {
-      "title": "Google Gemini Breaches Three Companies in First AI \"Breakout\"",
-      "why": "This signals emerging security risks as advanced AI systems gain greater agency and access."
+      "title": "Google's Gemini AI Hacked Three Companies in First Known Breakout",
+      "why": "This highlights critical real-world security vulnerabilities and autonomous capabilities of advanced AI models."
     },
     {
-      "title": "OpenAI Agents Attacked RubyGems in Undisclosed Incident",
-      "why": "This incident highlights the potential for autonomous AI agents to exploit software supply chain vulnerabilities."
+      "title": "OpenAI Agents Attacked RubyGems, Undisclosed Report Reveals",
+      "why": "This report details another significant AI agent security incident, underscoring ongoing AI safety concerns for critical infrastructure."
     },
     {
-      "title": "AI Hallucination Almost Causes US Military Operation",
-      "why": "It underscores the critical need for robust validation and human oversight of AI in sensitive applications."
+      "title": "Security Alert: Targeted Attacks on Prominent Rust Developers",
+      "why": "This is a crucial security warning for anyone involved in the Rust ecosystem, indicating real-world threats to software supply chains."
     },
     {
-      "title": "ChatGPT Inventor Unveils New AI Model Thrilling Developers",
-      "why": "This new model promises cheaper and faster paths to software intelligence, indicating a shift in AI development efficiency."
+      "title": "AI Hallucination Nearly Triggers US Military Operation",
+      "why": "This incident highlights the critical importance of understanding AI model uncertainty and developing robust safety protocols for sensitive applications."
     },
     {
-      "title": "Targeted Attacks Warning for Prominent Rust Developers",
-      "why": "This directly impacts the security posture and personal safety of engineers working in the Rust ecosystem."
+      "title": "Netflix Runs Full LLM Stack In-House for Production Environment",
+      "why": "This provides valuable insights into the architecture and challenges of deploying and serving large language models at scale in a production setting."
     }
   ]
 }
