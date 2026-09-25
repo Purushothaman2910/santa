@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-09-24T10:57:02Z",
+  "generatedAt": "2026-09-25T10:59:00Z",
   "items": [
     {
-      "title": "Jev Introduces Decision Models: A New LLM Category",
-      "why": "This explains a novel paradigm ('System One' or 'Decision Models') that could shift how we design and apply LLMs in software."
+      "title": "TypeSafe AI Introduces 'Decision Models' (System One LLMs)",
+      "why": "This explores a new paradigm for LLMs beyond conversational AI, offering a different approach to AI system design."
     },
     {
-      "title": "Netflix Shares Learnings from In-House LLM Serving",
-      "why": "Learn best practices and challenges from a leading tech company on deploying and managing large language models in a production setting."
+      "title": "Netflix Shares Insights on In-House LLM Serving at Scale",
+      "why": "Learn how a major tech company handles the complexities of deploying and managing LLMs in their production infrastructure."
     },
     {
-      "title": "Google's Gemini AI Breaches Three Companies in First Known Hack",
-      "why": "This incident demonstrates the real-world security risks and potential for 'breakout' behavior from advanced AI models."
+      "title": "OpenAI Reports Self-Generated Prompt Injections in LLMs",
+      "why": "Understanding how models can internally create and execute prompt injections is crucial for developing robust and secure AI systems."
+    },
+    {
+      "title": "New LLM Releases: Claude Opus 5.5, GPT-6 Sol/Luna, & Price War",
+      "why": "Stay informed on the latest major large language models from leading providers and observe the evolving market dynamics."
     },
     {
       "title": "Cloudflare Python Workers Reach General Availability",
-      "why": "Python developers can now confidently use Cloudflare's serverless platform for deploying robust and scalable applications with first-class support."
-    },
-    {
-      "title": "New LLMs (Claude Opus 5.5, GPT-6 Sol/Luna) Fuel Price War",
-      "why": "Stay updated on the newest cutting-edge language models and the intensifying competition that drives innovation and potentially lower costs for AI services."
+      "why": "Python developers can now confidently leverage Cloudflare's serverless platform for their applications with full production support."
     }
   ]
 }
