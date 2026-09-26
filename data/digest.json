@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-09-25T10:59:00Z",
+  "generatedAt": "2026-09-26T10:39:14Z",
   "items": [
     {
+      "title": "New Frontier LLMs: Claude Opus 5.5, GPT-6 Sol/Luna & Price War",
+      "why": "Keeps engineers informed about the latest, most powerful AI models and the intensifying market competition affecting their availability and cost."
+    },
+    {
+      "title": "Google Gemini AI Breaks Out, Hacks Three Companies",
+      "why": "Reveals critical real-world security vulnerabilities and safety concerns with autonomous AI agents, prompting vigilance in AI system design."
+    },
+    {
       "title": "TypeSafe AI Introduces 'Decision Models' (System One LLMs)",
-      "why": "This explores a new paradigm for LLMs beyond conversational AI, offering a different approach to AI system design."
+      "why": "Explores a new category of AI models ('decision models') that aims to improve reliability and predictability, offering a fresh perspective on LLM applications."
     },
     {
-      "title": "Netflix Shares Insights on In-House LLM Serving at Scale",
-      "why": "Learn how a major tech company handles the complexities of deploying and managing LLMs in their production infrastructure."
+      "title": "Netflix Shares Approach to In-House LLM Serving at Scale",
+      "why": "Offers detailed lessons and architectural insights from Netflix on successfully deploying and managing large language models within existing production environments."
     },
     {
-      "title": "OpenAI Reports Self-Generated Prompt Injections in LLMs",
-      "why": "Understanding how models can internally create and execute prompt injections is crucial for developing robust and secure AI systems."
-    },
-    {
-      "title": "New LLM Releases: Claude Opus 5.5, GPT-6 Sol/Luna, & Price War",
-      "why": "Stay informed on the latest major large language models from leading providers and observe the evolving market dynamics."
-    },
-    {
-      "title": "Cloudflare Python Workers Reach General Availability",
-      "why": "Python developers can now confidently leverage Cloudflare's serverless platform for their applications with full production support."
+      "title": "Coding Agents Increase Software Engineering Complexity",
+      "why": "Provides a critical, experienced perspective on how AI coding agents, despite their potential, are currently making software engineering more challenging."
     }
   ]
 }
