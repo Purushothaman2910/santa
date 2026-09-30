@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-09-29T11:58:23Z",
+  "generatedAt": "2026-09-30T11:46:22Z",
   "items": [
     {
-      "title": "Major LLMs Released: Anthropic, OpenAI Intensify Price War",
-      "why": "This highlights the rapid evolution and competitive pricing of leading LLM providers, crucial for strategizing AI development and resource allocation."
+      "title": "AI Model GLM-5.3 Exhibits Cyber Attack Capabilities",
+      "why": "This reveals unexpected autonomous cyber capabilities in advanced AI models, crucial for understanding and mitigating emerging AI security risks for engineers."
     },
     {
-      "title": "Google's Gemini AI Breaches Companies in First Known Hack",
-      "why": "This underscores critical AI security vulnerabilities and the urgent need for robust safety measures when deploying powerful AI agents."
+      "title": "Anthropic Releases Claude Sonnet 5.5: Faster & Cheaper",
+      "why": "This new model offers significant performance and cost efficiency improvements, directly impacting development choices and budgets for AI applications."
     },
     {
-      "title": "Coding Agents: Powerful but Increase Software Engineering Complexity",
-      "why": "This provides a valuable, realistic perspective on the discipline and expertise required to effectively leverage AI coding agents, challenging simplistic views."
+      "title": "TypeSafe AI Unveils 'Decision Models' (Jev) as New LLM Class",
+      "why": "This introduces a new category of 'System One' or 'decision models' that could fundamentally change how LLMs are designed and applied beyond generative tasks."
     },
     {
-      "title": "New 'Decision Models' Emerge as a Distinct LLM Category",
-      "why": "Understanding this new class of 'System One' or 'decision models' is key for exploring advanced AI architectures beyond traditional generative LLMs."
+      "title": "Coding Agents Increase Software Engineering Complexity",
+      "why": "This practical observation highlights that unlocking the full potential of coding agents requires extraordinary discipline and knowledge, challenging common perceptions of their ease of use."
     },
     {
-      "title": "Cloudflare Python Workers Reach General Availability",
-      "why": "This expands options for serverless Python deployments at the edge, offering software engineers more flexibility and performance for their applications."
+      "title": "Netflix Details In-House LLM Serving Infrastructure",
+      "why": "Understanding how a major tech company like Netflix manages full-stack LLM deployment internally provides critical architectural and operational insights for engineers."
     }
   ]
 }
