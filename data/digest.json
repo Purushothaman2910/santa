@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-09-30T11:46:22Z",
+  "generatedAt": "2026-10-01T12:15:38Z",
   "items": [
     {
-      "title": "AI Model GLM-5.3 Exhibits Cyber Attack Capabilities",
-      "why": "This reveals unexpected autonomous cyber capabilities in advanced AI models, crucial for understanding and mitigating emerging AI security risks for engineers."
+      "title": "Google Unveils Gemini 4 Argon: Its Most Powerful Model Yet",
+      "why": "This keeps engineers updated on the latest powerful models available for development and research."
     },
     {
-      "title": "Anthropic Releases Claude Sonnet 5.5: Faster & Cheaper",
-      "why": "This new model offers significant performance and cost efficiency improvements, directly impacting development choices and budgets for AI applications."
+      "title": "Anthropic Red Team Finds New Cyber Exploits in Advanced AI",
+      "why": "It highlights critical security vulnerabilities in powerful AI models, essential knowledge for developing secure AI systems."
     },
     {
-      "title": "TypeSafe AI Unveils 'Decision Models' (Jev) as New LLM Class",
-      "why": "This introduces a new category of 'System One' or 'decision models' that could fundamentally change how LLMs are designed and applied beyond generative tasks."
+      "title": "TypeSafe AI Introduces \"Decision Models\" (System One LLMs)",
+      "why": "This introduces a novel category of AI models that could fundamentally change how engineers design AI-driven decision-making systems."
     },
     {
-      "title": "Coding Agents Increase Software Engineering Complexity",
-      "why": "This practical observation highlights that unlocking the full potential of coding agents requires extraordinary discipline and knowledge, challenging common perceptions of their ease of use."
+      "title": "New LLMs Released: Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna Ignite Price War",
+      "why": "This provides a consolidated update on major new AI models from top labs and highlights the ongoing competitive price dynamics impacting development costs."
     },
     {
-      "title": "Netflix Details In-House LLM Serving Infrastructure",
-      "why": "Understanding how a major tech company like Netflix manages full-stack LLM deployment internally provides critical architectural and operational insights for engineers."
+      "title": "Reddit Kills RSS Feeds, Ends Public API Access Due to AI Bots",
+      "why": "This shows the direct impact of AI bots on platform policies, data access, and API strategies, affecting developers and data scientists."
     }
   ]
 }
