@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-10-01T12:15:38Z",
+  "generatedAt": "2026-10-02T11:44:45Z",
   "items": [
     {
-      "title": "Google Unveils Gemini 4 Argon: Its Most Powerful Model Yet",
-      "why": "This keeps engineers updated on the latest powerful models available for development and research."
+      "title": "Anthropic's GLM-5.3 Achieves Control Flow Hijacks",
+      "why": "This highlights a concrete and concerning capability of advanced AI models in cybersecurity, demonstrating the urgent need for robust AI safety and security research in software engineering."
     },
     {
-      "title": "Anthropic Red Team Finds New Cyber Exploits in Advanced AI",
-      "why": "It highlights critical security vulnerabilities in powerful AI models, essential knowledge for developing secure AI systems."
+      "title": "TypeSafe AI Debuts Jev: A New Category of 'Decision Models'",
+      "why": "Introduces 'decision models' as a novel category of AI, offering a different architectural approach for tasks requiring structured decision-making, which could influence future AI system design."
     },
     {
-      "title": "TypeSafe AI Introduces \"Decision Models\" (System One LLMs)",
-      "why": "This introduces a novel category of AI models that could fundamentally change how engineers design AI-driven decision-making systems."
+      "title": "Netflix Runs Full In-House LLM Serving Stack at Scale",
+      "why": "Netflix's decision to manage the entire LLM serving stack in-house provides crucial insights into the complexities and benefits of full control over AI inference infrastructure at scale."
     },
     {
-      "title": "New LLMs Released: Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna Ignite Price War",
-      "why": "This provides a consolidated update on major new AI models from top labs and highlights the ongoing competitive price dynamics impacting development costs."
+      "title": "Cloudflare Python Workers Generally Available for Edge Compute",
+      "why": "The general availability of Python on Cloudflare Workers expands options for serverless and edge computing, enabling Python developers to deploy code globally with low latency."
     },
     {
-      "title": "Reddit Kills RSS Feeds, Ends Public API Access Due to AI Bots",
-      "why": "This shows the direct impact of AI bots on platform policies, data access, and API strategies, affecting developers and data scientists."
+      "title": "Coding Agents: Powerful, But Making Software Engineering Harder?",
+      "why": "This offers a critical perspective on the real-world challenges and increased demands on discipline when integrating AI coding agents into engineering workflows."
     }
   ]
 }
