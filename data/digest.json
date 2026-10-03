@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-10-02T11:44:45Z",
+  "generatedAt": "2026-10-03T10:58:10Z",
   "items": [
     {
-      "title": "Anthropic's GLM-5.3 Achieves Control Flow Hijacks",
-      "why": "This highlights a concrete and concerning capability of advanced AI models in cybersecurity, demonstrating the urgent need for robust AI safety and security research in software engineering."
+      "title": "Anthropic Red Team on GLM-5.3 Developing Cyberattack Capabilities",
+      "why": "It highlights the emerging risks of advanced AI models independently developing and executing cyber exploits, a crucial concern for AI safety and security."
     },
     {
-      "title": "TypeSafe AI Debuts Jev: A New Category of 'Decision Models'",
-      "why": "Introduces 'decision models' as a novel category of AI, offering a different architectural approach for tasks requiring structured decision-making, which could influence future AI system design."
+      "title": "Apple Tightens macOS Full Disk Access Due to AI Agent Risks",
+      "why": "This indicates a significant platform-level response to the security implications of powerful AI agents gaining broad system access."
     },
     {
-      "title": "Netflix Runs Full In-House LLM Serving Stack at Scale",
-      "why": "Netflix's decision to manage the entire LLM serving stack in-house provides crucial insights into the complexities and benefits of full control over AI inference infrastructure at scale."
+      "title": "New LLM Models and Price War: Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna",
+      "why": "This signals a significant shift in the LLM market with multiple new powerful models and increased competition on pricing."
     },
     {
-      "title": "Cloudflare Python Workers Generally Available for Edge Compute",
-      "why": "The general availability of Python on Cloudflare Workers expands options for serverless and edge computing, enabling Python developers to deploy code globally with low latency."
+      "title": "TypeSafe AI Introduces Jev: New \"System One\" Decision Models",
+      "why": "This introduces a novel category of \"decision models\" that could expand the applications and capabilities of LLMs beyond traditional generation tasks."
     },
     {
-      "title": "Coding Agents: Powerful, But Making Software Engineering Harder?",
-      "why": "This offers a critical perspective on the real-world challenges and increased demands on discipline when integrating AI coding agents into engineering workflows."
+      "title": "Netflix's Strategy for In-House LLM Serving and Inference",
+      "why": "Details the complexities and benefits of deploying and managing LLMs entirely in-house for production-grade applications."
     }
   ]
 }
