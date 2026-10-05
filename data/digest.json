@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-10-04T11:41:22Z",
+  "generatedAt": "2026-10-05T13:21:29Z",
   "items": [
     {
-      "title": "AI Models Develop Cyber Attack Capabilities, Raising Security Concerns",
-      "why": "Advanced AI models demonstrating abilities to exploit systems raises significant concerns for software engineers about AI safety and cybersecurity."
+      "title": "New LLM Releases: Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna & Price War",
+      "why": "This covers major new LLM releases and the escalating competition, which are critical developments for AI engineers and strategists."
     },
     {
-      "title": "Netflix Runs Full LLM Stack In-House: MLOps and Infrastructure Lessons",
-      "why": "Netflix's decision to run its full LLM stack in-house offers critical lessons on MLOps and infrastructure challenges for large-scale AI deployment."
+      "title": "Apple Tightens macOS Full Disk Access Due to AI Agent Risks",
+      "why": "This security update from Apple directly addresses new risks posed by increasingly capable AI agents, impacting macOS development and security practices."
     },
     {
-      "title": "Implement Default Hard Budget Caps for Pay-by-Usage APIs",
-      "why": "This feature is crucial for software engineers to control costs and prevent runaway spending on cloud services, especially with increasing AI API usage."
+      "title": "Google Halts Bug Bounty Program Due to AI Submissions Overload",
+      "why": "This highlights a growing problem with AI-generated low-quality submissions impacting security programs and engineering workflows."
     },
     {
-      "title": "Apple Strengthens macOS Security Against AI Agent Risks",
-      "why": "Apple's move to enhance macOS security in response to AI agents highlights critical new threat vectors and necessary precautions for developers."
+      "title": "In-House LLM Serving Architecture at Netflix",
+      "why": "Details the engineering challenges and solutions for serving large language models internally at Netflix's scale, invaluable for MLOps and infrastructure teams."
     },
     {
-      "title": "New LLM-TypeSafe Plugin for Structured AI Output",
-      "why": "This new plugin allows for type-safe interactions with LLMs, crucial for building more reliable and predictable AI-powered applications."
+      "title": "Anthropic Red Team: LLMs Developing Cyber Exploitation Skills",
+      "why": "This reveals the potential for advanced AI models to generate exploits, posing new security challenges for developers."
     }
   ]
 }
