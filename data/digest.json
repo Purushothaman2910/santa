@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-10-05T13:21:29Z",
+  "generatedAt": "2026-10-06T12:36:31Z",
   "items": [
     {
-      "title": "New LLM Releases: Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna & Price War",
-      "why": "This covers major new LLM releases and the escalating competition, which are critical developments for AI engineers and strategists."
+      "title": "AI Model Price War & Latest Releases (Claude Opus 5.5, GPT-6 Sol, Luna)",
+      "why": "This update summarizes recent top-tier AI model releases and signals an intensifying price war, critical for strategic model selection and cost management."
     },
     {
-      "title": "Apple Tightens macOS Full Disk Access Due to AI Agent Risks",
-      "why": "This security update from Apple directly addresses new risks posed by increasingly capable AI agents, impacting macOS development and security practices."
+      "title": "Netflix's Approach to In-House LLM Serving",
+      "why": "Learn how a hyperscaler like Netflix manages the full stack of LLM deployment and inference in their production environment, offering insights into real-world challenges and solutions."
     },
     {
-      "title": "Google Halts Bug Bounty Program Due to AI Submissions Overload",
-      "why": "This highlights a growing problem with AI-generated low-quality submissions impacting security programs and engineering workflows."
+      "title": "Understanding AI Agent 'Worms' & Security Risks",
+      "why": "This highlights the emerging and critical security vulnerabilities in AI agent systems, including the potential for self-replicating malicious payloads."
     },
     {
-      "title": "In-House LLM Serving Architecture at Netflix",
-      "why": "Details the engineering challenges and solutions for serving large language models internally at Netflix's scale, invaluable for MLOps and infrastructure teams."
+      "title": "Coding Agents: Making Software Engineering Harder?",
+      "why": "A seasoned perspective argues that while powerful, coding agents demand extraordinary discipline and knowledge, potentially increasing complexity for software engineers."
     },
     {
-      "title": "Anthropic Red Team: LLMs Developing Cyber Exploitation Skills",
-      "why": "This reveals the potential for advanced AI models to generate exploits, posing new security challenges for developers."
+      "title": "Deep Dive into AWS S3's Architecture at Scale",
+      "why": "Gain insights into the design and engineering principles behind one of the most fundamental and massive cloud storage services."
     }
   ]
 }
