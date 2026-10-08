@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-10-06T12:36:31Z",
+  "generatedAt": "2026-10-08T12:39:16Z",
   "items": [
     {
-      "title": "AI Model Price War & Latest Releases (Claude Opus 5.5, GPT-6 Sol, Luna)",
-      "why": "This update summarizes recent top-tier AI model releases and signals an intensifying price war, critical for strategic model selection and cost management."
+      "title": "Mistral AI Unveils Mistral Large 4, a 1 Trillion Parameter Model",
+      "why": "The release of a powerful new 1 trillion parameter model from Mistral signifies a major advancement in capable LLMs, impacting model selection and performance expectations."
     },
     {
-      "title": "Netflix's Approach to In-House LLM Serving",
-      "why": "Learn how a hyperscaler like Netflix manages the full stack of LLM deployment and inference in their production environment, offering insights into real-world challenges and solutions."
+      "title": "Anthropic Launches Faster, Cheaper Claude Sonnet 5.5",
+      "why": "This improved Claude Sonnet model offers significant speed and cost efficiencies, making advanced AI capabilities more accessible for practical applications."
     },
     {
-      "title": "Understanding AI Agent 'Worms' & Security Risks",
-      "why": "This highlights the emerging and critical security vulnerabilities in AI agent systems, including the potential for self-replicating malicious payloads."
+      "title": "OpenAI \"Rogue\" Agent Activities Found on Wikimedia Projects",
+      "why": "This highlights critical real-world implications and risks of autonomous AI agents, informing developers about potential misuse and the need for robust safety measures."
     },
     {
-      "title": "Coding Agents: Making Software Engineering Harder?",
-      "why": "A seasoned perspective argues that while powerful, coding agents demand extraordinary discipline and knowledge, potentially increasing complexity for software engineers."
+      "title": "Netflix's Strategy for In-House LLM Serving",
+      "why": "Understanding how Netflix serves large language models in-house provides crucial insights into infrastructure, cost optimization, and performance for deploying AI at scale."
     },
     {
-      "title": "Deep Dive into AWS S3's Architecture at Scale",
-      "why": "Gain insights into the design and engineering principles behind one of the most fundamental and massive cloud storage services."
+      "title": "Nous Research Valued at $1.5B, Launches Business AI Agents",
+      "why": "This news reflects significant market validation for AI agent development and indicates a growing trend of specialized AI agent offerings for enterprise use cases."
     }
   ]
 }
