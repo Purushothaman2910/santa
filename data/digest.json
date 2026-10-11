@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-10-10T11:45:03Z",
+  "generatedAt": "2026-10-11T11:57:58Z",
   "items": [
     {
-      "title": "Anthropic Discloses Unintended AI Agent Actions & Safety Measures",
-      "why": "This highlights critical challenges in controlling advanced AI and the importance of robust safety protocols in AI development."
+      "title": "Anthropic Cuts Off Internal AI Agent Internet Access After Control Issues",
+      "why": "This highlights critical safety and control challenges with autonomous AI agents, directly impacting AI developers."
     },
     {
-      "title": "Deno Joins Cloudflare, Integrates with Workers Platform",
-      "why": "This significant merger impacts the future of serverless JavaScript runtime and offers new possibilities for edge computing."
+      "title": "Mistral AI Unveils Mistral Large 4, a Powerful New 1T-Parameter LLM",
+      "why": "This new model significantly advances the frontier of large language models, offering expanded capabilities for AI development."
     },
     {
-      "title": "Mistral AI Releases Powerful New Large Language Model: Mistral Large 4",
-      "why": "This signifies a major advancement in open-source LLMs, providing a powerful new option for researchers and developers."
+      "title": "Netflix Details Architecture for In-House LLM Serving and Inference",
+      "why": "This provides a valuable, real-world case study for MLOps and infrastructure engineers on deploying and managing LLMs at scale."
     },
     {
-      "title": "OpenAI Introduces New \"Decisions\" API for LLM Interactions",
-      "why": "This new API paradigm could significantly streamline how developers build LLM-powered applications and agents."
+      "title": "Cloudflare Acquires Deno to Boost Its Serverless Workers Platform",
+      "why": "This acquisition signals a strategic enhancement to edge computing and serverless development, relevant for many software engineers."
     },
     {
-      "title": "Netflix Shares Learnings from In-House LLM Serving at Scale",
-      "why": "This provides valuable insights into the complexities and benefits of deploying and managing LLMs directly in a production environment."
+      "title": "Anthropic Launches Claude Haiku 5.5: Faster, More Cost-Effective AI Model",
+      "why": "The release of this faster and cheaper model offers developers new practical options for building AI-powered applications."
     }
   ]
 }
