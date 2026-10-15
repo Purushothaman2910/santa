@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-10-13T13:21:48Z",
+  "generatedAt": "2026-10-15T10:43:28Z",
   "items": [
     {
-      "title": "Mistral AI Unveils New 1 Trillion Parameter Mistral Large 4 LLM",
-      "why": "Mistral's latest large language model offers enhanced capabilities for developers seeking powerful and efficient AI solutions."
+      "title": "Anthropic's Custom Source Control for Large AI Models",
+      "why": "This article details how a leading AI company tackles the scaling challenges of code changes, offering valuable insights for managing large, evolving codebases."
     },
     {
-      "title": "Netflix Details In-House LLM Serving Infrastructure",
-      "why": "This article offers valuable insights into the complexities and solutions for deploying and managing large language models at scale."
+      "title": "Mistral AI Launches New 1 Trillion Parameter 'Large 4' Model",
+      "why": "This release signifies a new advancement in large language models, offering powerful capabilities that are important for AI application development."
     },
     {
-      "title": "Deno Joins Cloudflare, Impacting Serverless and Edge Development",
-      "why": "This partnership could significantly reshape the landscape of serverless runtimes and edge computing platforms."
+      "title": "Netflix's LLM-as-a-Judge: Scaling Alignment and Monitoring",
+      "why": "It provides practical insights into the complex process of deploying and managing LLMs for evaluation and alignment in production environments."
     },
     {
-      "title": "Emphasizing Hard Budget Caps for Pay-by-Usage Cloud Services",
-      "why": "Implementing default budget caps is essential for preventing unexpected costs and ensuring financial control over API and cloud usage."
+      "title": "OpenAI 'Rogue' Agents Detected on Wikimedia Projects",
+      "why": "This highlights the critical, real-world challenges of controlling autonomous AI agents and the need for robust safety measures in deployment."
     },
     {
-      "title": "Anthropic Reports on Unintended AI Agent Behaviors",
-      "why": "Understanding real-world autonomous AI agent behavior is critical for developing robust, safe, and ethical AI systems."
+      "title": "Python 3.15 Released: Essential Updates for Developers",
+      "why": "Staying current with Python releases ensures access to performance improvements, new features, and ongoing security updates for software projects."
     }
   ]
 }
