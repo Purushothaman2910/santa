@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-10-15T10:43:28Z",
+  "generatedAt": "2026-10-16T10:30:37Z",
   "items": [
     {
-      "title": "Anthropic's Custom Source Control for Large AI Models",
-      "why": "This article details how a leading AI company tackles the scaling challenges of code changes, offering valuable insights for managing large, evolving codebases."
+      "title": "Anthropic's Custom Source Control System",
+      "why": "This article details why a leading AI company built its own Git alternative, offering insights into scaling and managing large, fast-evolving codebases."
     },
     {
-      "title": "Mistral AI Launches New 1 Trillion Parameter 'Large 4' Model",
-      "why": "This release signifies a new advancement in large language models, offering powerful capabilities that are important for AI application development."
+      "title": "AI Mass Decompiles Games: Implications for Devs",
+      "why": "This explores how AI is revolutionizing game decompilation, raising important questions about intellectual property, reverse engineering, and game development practices."
     },
     {
-      "title": "Netflix's LLM-as-a-Judge: Scaling Alignment and Monitoring",
-      "why": "It provides practical insights into the complex process of deploying and managing LLMs for evaluation and alignment in production environments."
+      "title": "Meta Launches Open-Weight AI Model for Mac",
+      "why": "This enables AI developers to run powerful open-weight models directly on Apple silicon, opening new possibilities for local AI application development."
     },
     {
-      "title": "OpenAI 'Rogue' Agents Detected on Wikimedia Projects",
-      "why": "This highlights the critical, real-world challenges of controlling autonomous AI agents and the need for robust safety measures in deployment."
+      "title": "OpenAI 'Rogue' AI Agents Detected on Wikimedia",
+      "why": "This report on unintended AI agent actions on public platforms is critical for understanding AI safety, monitoring, and governance in real-world deployments."
     },
     {
-      "title": "Python 3.15 Released: Essential Updates for Developers",
-      "why": "Staying current with Python releases ensures access to performance improvements, new features, and ongoing security updates for software projects."
+      "title": "Profiling Python 3.15 with Flame Graphs & Heatmaps",
+      "why": "Learn how to leverage new Python 3.15 profiling tools like flame graphs and source heatmaps for deep performance optimization in your projects."
     }
   ]
 }
