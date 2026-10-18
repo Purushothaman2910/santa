@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-10-16T10:30:37Z",
+  "generatedAt": "2026-10-18T10:13:56Z",
   "items": [
     {
-      "title": "Anthropic's Custom Source Control System",
-      "why": "This article details why a leading AI company built its own Git alternative, offering insights into scaling and managing large, fast-evolving codebases."
+      "title": "Anthropic Redesigns Source Control for Extreme Scale",
+      "why": "This article details how Anthropic built a custom alternative to Git to manage the dramatically increased rate of changes in their large codebase, offering insights into version control at scale."
     },
     {
-      "title": "AI Mass Decompiles Games: Implications for Devs",
-      "why": "This explores how AI is revolutionizing game decompilation, raising important questions about intellectual property, reverse engineering, and game development practices."
+      "title": "AI is Mass Decompiling Games, Raising Opportunities and Concerns",
+      "why": "This piece explores the emerging trend of AI-powered game decompilation, which has significant implications for software reverse engineering, security, and intellectual property."
     },
     {
-      "title": "Meta Launches Open-Weight AI Model for Mac",
-      "why": "This enables AI developers to run powerful open-weight models directly on Apple silicon, opening new possibilities for local AI application development."
+      "title": "Deno Joins Cloudflare, Merging Web Runtime and Edge Computing Efforts",
+      "why": "The Deno team's move to Cloudflare signals a strategic shift in the web platform landscape, particularly for developers leveraging serverless functions and edge computing."
     },
     {
-      "title": "OpenAI 'Rogue' AI Agents Detected on Wikimedia",
-      "why": "This report on unintended AI agent actions on public platforms is critical for understanding AI safety, monitoring, and governance in real-world deployments."
+      "title": "Introducing Claude Haiku 5.5: Anthropic's New Fast, Low-Cost AI Model",
+      "why": "The release of Claude Haiku 5.5 provides AI engineers with a more efficient and cost-effective model, crucial for developing and deploying performant AI applications."
     },
     {
-      "title": "Profiling Python 3.15 with Flame Graphs & Heatmaps",
-      "why": "Learn how to leverage new Python 3.15 profiling tools like flame graphs and source heatmaps for deep performance optimization in your projects."
+      "title": "Profiling Python 3.15 with Flame Graphs and Source Heatmaps for Performance",
+      "why": "This research provides practical methods for performance optimization using new Python 3.15 profiling tools, essential for engineers seeking to improve code efficiency."
     }
   ]
 }
