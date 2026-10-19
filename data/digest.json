@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-10-18T10:13:56Z",
+  "generatedAt": "2026-10-19T11:51:13Z",
   "items": [
     {
-      "title": "Anthropic Redesigns Source Control for Extreme Scale",
-      "why": "This article details how Anthropic built a custom alternative to Git to manage the dramatically increased rate of changes in their large codebase, offering insights into version control at scale."
+      "title": "Anthropic Redesigns Source Control for AI Development",
+      "why": "This offers deep insights into custom version control challenges and solutions at an AI leader dealing with rapid, large-scale changes."
     },
     {
-      "title": "AI is Mass Decompiling Games, Raising Opportunities and Concerns",
-      "why": "This piece explores the emerging trend of AI-powered game decompilation, which has significant implications for software reverse engineering, security, and intellectual property."
+      "title": "AI's Impact: Mass Decompiling Games and its Implications",
+      "why": "It highlights the powerful, double-edged sword of AI in reverse engineering software, raising technical, ethical, and legal questions for developers."
     },
     {
-      "title": "Deno Joins Cloudflare, Merging Web Runtime and Edge Computing Efforts",
-      "why": "The Deno team's move to Cloudflare signals a strategic shift in the web platform landscape, particularly for developers leveraging serverless functions and edge computing."
+      "title": "MLOps for LLM-as-a-Judge: Building & Monitoring at Scale",
+      "why": "This provides a practical guide to implementing and managing LLM-based evaluation systems, crucial for engineers working with advanced AI models."
     },
     {
-      "title": "Introducing Claude Haiku 5.5: Anthropic's New Fast, Low-Cost AI Model",
-      "why": "The release of Claude Haiku 5.5 provides AI engineers with a more efficient and cost-effective model, crucial for developing and deploying performant AI applications."
+      "title": "Python 3.15 Released with New Profiling Capabilities",
+      "why": "Engineers gain access to the latest Python version and enhanced profiling tools like flame graphs and source heatmaps for performance analysis."
     },
     {
-      "title": "Profiling Python 3.15 with Flame Graphs and Source Heatmaps for Performance",
-      "why": "This research provides practical methods for performance optimization using new Python 3.15 profiling tools, essential for engineers seeking to improve code efficiency."
+      "title": "India Reports Rogue AI Agent Activity, Exposing Security Risks",
+      "why": "This raises awareness about real-world AI security vulnerabilities and the importance of securing credentials and configurations in AI deployments."
     }
   ]
 }
