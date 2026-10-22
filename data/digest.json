@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-10-20T10:48:50Z",
+  "generatedAt": "2026-10-22T10:59:30Z",
   "items": [
     {
-      "title": "The Programming Obituary: AI's Impact on the Craft",
-      "why": "This piece provocatively questions the long-term enjoyment and nature of programming careers in an AI-driven world."
+      "title": "PHP Armageddon: AI Uncovers Critical Vulnerabilities",
+      "why": "Critical security flaws in PHP, some discovered with AI, demand immediate attention from backend and security engineers."
     },
     {
-      "title": "Anthropic's Custom Source Control for High-Velocity AI Development",
-      "why": "It offers a deep dive into how a leading AI lab is tackling fundamental software engineering challenges like version control at an unprecedented scale."
+      "title": "eMudhra Intermediate CA Compromise Raises Security Concerns",
+      "why": "The compromise of a certificate authority's private keys poses a significant threat to digital trust and security across the internet."
     },
     {
-      "title": "AI Mass Decompilation: Game Development & Security Implications",
-      "why": "This highlights an emerging, powerful AI application that significantly impacts reverse engineering, intellectual property, and software security."
+      "title": "The Future of Programming: An Obituary for the Craft?",
+      "why": "This reflective piece thoughtfully explores how the rise of AI coding agents may fundamentally change the nature of software development."
     },
     {
-      "title": "Microsoft: AI Agents are Insider Threats, Frontier Models Untrustworthy",
-      "why": "This is a critical security warning for enterprises deploying AI agents, emphasizing the need for robust oversight and trust frameworks for frontier models."
+      "title": "Anthropic Redesigns Source Control for AI Development at Scale",
+      "why": "A leading AI company shares insights into building custom version control systems tailored for the unique challenges of large-scale AI projects."
     },
     {
-      "title": "Netflix: Scaling LLM-as-a-Judge for Building, Aligning, and Monitoring",
-      "why": "This provides valuable insights into the practical MLOps challenges and solutions for deploying and maintaining complex LLM-based evaluation systems in production at scale."
+      "title": "Managing LLM-as-a-Judge: Lifecycle, Alignment, and Monitoring at Scale",
+      "why": "Netflix engineers detail the practical considerations for building, aligning, and monitoring large language models used for critical evaluation tasks."
     }
   ]
 }
