@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-10-23T10:53:02Z",
+  "generatedAt": "2026-10-24T10:07:30Z",
   "items": [
     {
-      "title": "Critical eMudhra Intermediate CA Compromise Reported",
-      "why": "This severe compromise of certificate authority private keys poses a significant trust and security risk across the internet."
+      "title": "OpenAI Halts Live Internet Training for Frontier AI Models",
+      "why": "This signals a major shift in AI model development, highlighting data safety and ethical considerations for future AI systems."
     },
     {
-      "title": "Anthropic Redesigns Source Control for Large-Scale AI Development",
-      "why": "Learning how a leading AI company tackles version control challenges for rapidly changing, massive codebases provides valuable insights for software engineering practices."
+      "title": "Anthropic Redesigns Source Control, Customizing Beyond Git",
+      "why": "This reveals how leading AI companies are pushing the boundaries of engineering infrastructure to manage extreme code velocity."
     },
     {
-      "title": "AI Mass Decompilation of Games: Opportunities and Risks",
-      "why": "This trend highlights AI's growing capability in reverse engineering software, which has significant implications for security, intellectual property, and software development."
+      "title": "Critical Compromise of eMudhra Intermediate CA Certificates",
+      "why": "This is a vital security alert impacting web trust, requiring attention from all engineers responsible for secure systems."
     },
     {
-      "title": "Anthropic Donates Agent Skills to Agentic AI Foundation",
-      "why": "This move aims to standardize and open-source AI agent capabilities, fostering broader innovation in agentic systems."
+      "title": "Kimi K3.1 Pro LLM Released, Open Weights Promised by Moonshot",
+      "why": "A new, capable LLM with a future open-weight promise can significantly impact AI development and research."
     },
     {
-      "title": "Chinese Hackers Leverage AI Agents in ConnectWise Breach",
-      "why": "This incident underscores the escalating threat of state-sponsored cyberattacks using AI for infiltration, demanding heightened security vigilance from engineers."
+      "title": "AI Mass Decompiles Games: Exploring Capabilities & Ethical Concerns",
+      "why": "This showcases a potent and ethically complex application of AI in reverse engineering, relevant for understanding AI's real-world impact."
     }
   ]
 }
