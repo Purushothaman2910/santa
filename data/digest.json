@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-10-24T10:07:30Z",
+  "generatedAt": "2026-10-25T10:32:36Z",
   "items": [
     {
-      "title": "OpenAI Halts Live Internet Training for Frontier AI Models",
-      "why": "This signals a major shift in AI model development, highlighting data safety and ethical considerations for future AI systems."
+      "title": "OpenAI Halts Live Internet Training for Frontier Models",
+      "why": "This significant policy shift from a leading AI developer impacts data sourcing, safety protocols, and the future development of advanced AI models."
     },
     {
-      "title": "Anthropic Redesigns Source Control, Customizing Beyond Git",
-      "why": "This reveals how leading AI companies are pushing the boundaries of engineering infrastructure to manage extreme code velocity."
+      "title": "Anthropic Custom-Builds Source Control for Hyperscale AI",
+      "why": "Gain insights into how a top AI lab is addressing the challenges of massive code velocity and scale by developing a custom alternative to traditional version control systems."
     },
     {
-      "title": "Critical Compromise of eMudhra Intermediate CA Certificates",
-      "why": "This is a vital security alert impacting web trust, requiring attention from all engineers responsible for secure systems."
+      "title": "Major CA Compromise: eMudhra Intermediate Certificates Breached",
+      "why": "A critical compromise of eight intermediate Certificate Authority keys exposes broad internet infrastructure to trust vulnerabilities, requiring urgent security review."
     },
     {
-      "title": "Kimi K3.1 Pro LLM Released, Open Weights Promised by Moonshot",
-      "why": "A new, capable LLM with a future open-weight promise can significantly impact AI development and research."
+      "title": "Kimi K3.1 Pro LLM Unveiled with Future Open Weights Release",
+      "why": "A new, more capable large language model from Moonshot is introduced, with a commitment to release its full model weights, offering new opportunities for AI research and development."
     },
     {
-      "title": "AI Mass Decompiles Games: Exploring Capabilities & Ethical Concerns",
-      "why": "This showcases a potent and ethically complex application of AI in reverse engineering, relevant for understanding AI's real-world impact."
+      "title": "AI Massively Accelerates Game Decompilation, Raising Concerns",
+      "why": "Discover how AI is revolutionizing reverse engineering in the gaming industry, presenting both powerful new tools for developers and complex challenges for intellectual property and security."
     }
   ]
 }
