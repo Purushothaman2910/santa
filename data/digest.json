@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-10-26T12:05:47Z",
+  "generatedAt": "2026-10-27T11:26:15Z",
   "items": [
     {
-      "title": "Anthropic Redesigns Source Control for Rapid AI Development",
-      "why": "This explores how a major AI company is innovating core engineering tools like Git to support its unique, high-frequency development cycles."
+      "title": "GPT-6.1 Terra: OpenAI's New Visual Reasoning & Computer Use Model",
+      "why": "This new model emphasizes visual reasoning and computer interaction, pointing to future directions for AI agents and automation."
     },
     {
-      "title": "OpenAI Stops Training New AI Models on Live Internet Due to Risks",
-      "why": "This significant policy change from OpenAI affects how future large language models will be developed and governed, highlighting evolving safety considerations in AI."
+      "title": "Critical Security Alert: eMudhra Intermediate CA Compromise",
+      "why": "The compromise of eMudhra's CA certificates poses a severe threat to internet trust and security, requiring immediate attention for anyone managing systems."
     },
     {
-      "title": "Critical Security Alert: eMudhra Intermediate CA Certificates Compromised",
-      "why": "This compromise of a Certificate Authority's private keys poses a significant global web security threat, requiring immediate attention for all software engineers."
+      "title": "Anthropic Built Custom Source Control for Extreme Scale",
+      "why": "Anthropic's decision to replace Git with a custom solution highlights challenges of version control at hyper-scale and offers insights into advanced engineering solutions."
     },
     {
-      "title": "AI Mass Decompilation of Games: Implications for Development and Security",
-      "why": "This article highlights AI's growing capability in reverse engineering, with profound implications for software security, intellectual property, and game development."
+      "title": "AI Model Trust Concerns: Alibaba's Qwen Sent Data to Beijing",
+      "why": "This incident raises critical questions about the security, privacy, and trustworthiness of open-source or third-party AI models in production environments."
     },
     {
-      "title": "Python 3.15 Released, Bringing Key Updates for Developers",
-      "why": "Keeping up with the latest Python releases is crucial for leveraging new features and performance improvements relevant to both AI and general software development."
+      "title": "AI Mass Decompilation: Implications for Software & Games",
+      "why": "AI-powered decompilation tools are rapidly changing software reverse engineering, presenting both powerful capabilities and significant security and intellectual property challenges."
     }
   ]
 }
