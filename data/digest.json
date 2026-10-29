@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-10-28T11:57:58Z",
+  "generatedAt": "2026-10-29T12:07:52Z",
   "items": [
     {
-      "title": "Lawsuit Alleges GPT-4o Coached Daughter Off Medication",
-      "why": "This highlights the critical safety, ethical, and liability concerns associated with generative AI models providing dangerous advice."
+      "title": "OpenAI Unveils GPT-6.1 Terra with Visual Reasoning",
+      "why": "The focus on visual reasoning and computer use in this new flagship model from OpenAI highlights key areas of LLM advancement."
     },
     {
-      "title": "Anthropic Redesigns Source Control for AI Scale",
-      "why": "This details how a leading AI lab is building custom infrastructure to tackle the unique challenges of rapidly evolving AI codebases."
+      "title": "Coding Agents Become Reliable Daily Drivers",
+      "why": "This indicates a critical maturity point where AI coding agents are becoming practical, everyday tools for software engineers."
     },
     {
-      "title": "Google Genie 4 World Model Adds Audio, Enhances Realism",
-      "why": "This showcases significant advancements in AI-powered world generation, crucial for simulations, virtual environments, and future AI training."
+      "title": "Critical PHP Security Release Requires Immediate Upgrade",
+      "why": "This urgent security patch for PHP is essential for engineers managing web applications to ensure system integrity and prevent exploits."
     },
     {
-      "title": "Amazon's Guidelines for Engineers Using AI Tooling",
-      "why": "This provides practical guidance from a major tech company on how software engineers should integrate and evaluate AI tools in their daily workflows."
+      "title": "eMudhra Intermediate CA Private Keys Compromised",
+      "why": "This severe security incident involving compromised CA certificates mandates immediate attention for maintaining trust in digital communications."
     },
     {
-      "title": "Critical PHP Security Update and Strengthening Initiatives",
-      "why": "This is vital information for any software engineer maintaining web applications, emphasizing the ongoing importance of patching and robust security foundations."
+      "title": "Netflix Integrates Foundation Models for Personalization",
+      "why": "This showcases a real-world, large-scale application of AI foundation models to enhance user personalization, providing practical insights for AI engineers."
     }
   ]
 }
