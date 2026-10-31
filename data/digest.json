@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-10-30T11:59:19Z",
+  "generatedAt": "2026-10-31T11:33:38Z",
   "items": [
     {
-      "title": "OpenAI Introduces GPT-6.1 Terra with Advanced Visual Reasoning",
-      "why": "This new model from OpenAI emphasizes visual reasoning and computer use, indicating significant advancements in multimodal AI capabilities relevant for new applications."
+      "title": "OpenAI Releases GPT-6.1 Terra with Advanced Visual Reasoning",
+      "why": "This new flagship model from OpenAI highlights improved visual reasoning and computer interaction, critical for developing more capable AI applications."
     },
     {
-      "title": "GitHub Octoverse 2026 Highlights Rise of AI Agent Development",
-      "why": "The annual GitHub report offers key insights into industry trends, confirming that developers are increasingly building with AI agents."
+      "title": "Moonshot AI's Kimi K3.1 Pro Promises Open-Weight Release Soon",
+      "why": "A new powerful LLM with a commitment to releasing full model weights soon indicates significant advancements and potential for broader community adoption and innovation."
     },
     {
-      "title": "Coding Agents Now Reliable Daily Drivers for Software Development",
-      "why": "This article signals a major shift where advanced AI models have become sufficiently reliable for day-to-day coding tasks, transforming developer workflows."
+      "title": "Anthropic Donates Agent Skills to Open AI Foundation",
+      "why": "Anthropic's move to open-source agent skills promotes a vendor-neutral, community-driven ecosystem crucial for the standardization and progress of AI agent development."
     },
     {
-      "title": "Anthropic's Strategy for AI-Enhanced Code Review",
-      "why": "It offers valuable insights from a major AI company on how to integrate AI into critical software development practices like code review, focusing on effective checks."
+      "title": "GitHub Octoverse 2026 Highlights Surge in AI Agent Development",
+      "why": "The latest Octoverse report provides key insights into how developers are increasingly integrating and building with AI agents, shaping future software engineering practices."
     },
     {
-      "title": "Mistral Releases Open-Weight Trillion-Parameter AI for Cybersecurity",
-      "why": "This release of a powerful, open-source AI model specifically designed for cybersecurity provides new tools and control for organizations in a critical domain."
+      "title": "Critical Compromise of eMudhra Intermediate CA Certificates",
+      "why": "This severe security incident involving compromised CA private keys impacts trust infrastructure globally, requiring immediate attention from all software engineers."
     }
   ]
 }
