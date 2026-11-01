@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-10-31T11:33:38Z",
+  "generatedAt": "2026-11-01T12:31:01Z",
   "items": [
     {
-      "title": "OpenAI Releases GPT-6.1 Terra with Advanced Visual Reasoning",
-      "why": "This new flagship model from OpenAI highlights improved visual reasoning and computer interaction, critical for developing more capable AI applications."
+      "title": "ChatGPT Account Takeover Vulnerability Discovered",
+      "why": "This highlights a significant security flaw in a widely used AI service, crucial for engineers building on or integrating with AI platforms."
     },
     {
-      "title": "Moonshot AI's Kimi K3.1 Pro Promises Open-Weight Release Soon",
-      "why": "A new powerful LLM with a commitment to releasing full model weights soon indicates significant advancements and potential for broader community adoption and innovation."
+      "title": "NES Emulator Baked Into Qwen3.5-4B LLM Weights",
+      "why": "This demonstrates a novel and impressive way to embed complex functionality directly into LLM weights, showcasing creative AI applications."
+    },
+    {
+      "title": "OpenAI Introduces GPT-6.1 Terra with Enhanced Visual Reasoning",
+      "why": "This announces a new flagship model from OpenAI with significant advancements in visual reasoning and computer interaction capabilities, impacting future AI applications."
+    },
+    {
+      "title": "GitHub Octoverse 2026: Developer Agents Drive New Highs",
+      "why": "This report highlights key trends in developer activity on GitHub, including the growing adoption and impact of AI agents in software development."
     },
     {
       "title": "Anthropic Donates Agent Skills to Open AI Foundation",
-      "why": "Anthropic's move to open-source agent skills promotes a vendor-neutral, community-driven ecosystem crucial for the standardization and progress of AI agent development."
-    },
-    {
-      "title": "GitHub Octoverse 2026 Highlights Surge in AI Agent Development",
-      "why": "The latest Octoverse report provides key insights into how developers are increasingly integrating and building with AI agents, shaping future software engineering practices."
-    },
-    {
-      "title": "Critical Compromise of eMudhra Intermediate CA Certificates",
-      "why": "This severe security incident involving compromised CA private keys impacts trust infrastructure globally, requiring immediate attention from all software engineers."
+      "why": "Anthropic's donation of agent skills to an open foundation promotes community-driven, vendor-neutral development of AI agents, fostering collaboration and innovation."
     }
   ]
 }
