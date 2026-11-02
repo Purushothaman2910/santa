@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-11-01T12:31:01Z",
+  "generatedAt": "2026-11-02T14:31:53Z",
   "items": [
     {
-      "title": "ChatGPT Account Takeover Vulnerability Discovered",
-      "why": "This highlights a significant security flaw in a widely used AI service, crucial for engineers building on or integrating with AI platforms."
+      "title": "OpenAI Introduces GPT-6.1 Terra with Advanced Visual Reasoning",
+      "why": "Understanding new capabilities and focus areas of leading AI models is crucial for AI engineers to stay current with advancements."
     },
     {
-      "title": "NES Emulator Baked Into Qwen3.5-4B LLM Weights",
-      "why": "This demonstrates a novel and impressive way to embed complex functionality directly into LLM weights, showcasing creative AI applications."
+      "title": "ChatGPT Accounts Vulnerable: Exploit in Artifacts Pattern Found",
+      "why": "Awareness of real-world security vulnerabilities in major AI systems is essential for building robust and secure AI applications."
     },
     {
-      "title": "OpenAI Introduces GPT-6.1 Terra with Enhanced Visual Reasoning",
-      "why": "This announces a new flagship model from OpenAI with significant advancements in visual reasoning and computer interaction capabilities, impacting future AI applications."
+      "title": "Coding Agents Reach 'Daily Driver' Status, Reshaping Software Development",
+      "why": "This signals a major shift in how AI assists with coding, impacting software development workflows and productivity for engineers."
     },
     {
-      "title": "GitHub Octoverse 2026: Developer Agents Drive New Highs",
-      "why": "This report highlights key trends in developer activity on GitHub, including the growing adoption and impact of AI agents in software development."
+      "title": "Critical Security Alert: eMudhra Intermediate CA Certificates Compromised",
+      "why": "A serious compromise of a certificate authority impacts internet security globally, making it a critical alert for all software engineers."
     },
     {
-      "title": "Anthropic Donates Agent Skills to Open AI Foundation",
-      "why": "Anthropic's donation of agent skills to an open foundation promotes community-driven, vendor-neutral development of AI agents, fostering collaboration and innovation."
+      "title": "Netflix Integrates Foundation Models for Enhanced Personalization",
+      "why": "This demonstrates a practical, large-scale application of AI foundation models for personalization, offering insights into real-world AI system design."
     }
   ]
 }
