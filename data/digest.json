@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-11-02T14:31:53Z",
+  "generatedAt": "2026-11-03T13:28:02Z",
   "items": [
     {
-      "title": "OpenAI Introduces GPT-6.1 Terra with Advanced Visual Reasoning",
-      "why": "Understanding new capabilities and focus areas of leading AI models is crucial for AI engineers to stay current with advancements."
+      "title": "GPT-6.1 Terra Released with Visual Reasoning & Computer Use",
+      "why": "This release highlights advancements in multimodal AI and automation, critical for pushing AI applications forward."
     },
     {
-      "title": "ChatGPT Accounts Vulnerable: Exploit in Artifacts Pattern Found",
-      "why": "Awareness of real-world security vulnerabilities in major AI systems is essential for building robust and secure AI applications."
+      "title": "Exploit Allowed Takeover of ChatGPT Accounts",
+      "why": "Understanding security vulnerabilities in major AI platforms is crucial for developing robust and safe AI systems."
     },
     {
-      "title": "Coding Agents Reach 'Daily Driver' Status, Reshaping Software Development",
-      "why": "This signals a major shift in how AI assists with coding, impacting software development workflows and productivity for engineers."
+      "title": "Anthropic Nears \"Self-Building AI\" (RSI) Capability",
+      "why": "This news directly addresses the rapid progression of AI capabilities and the increasing importance of AI safety and control."
     },
     {
-      "title": "Critical Security Alert: eMudhra Intermediate CA Certificates Compromised",
-      "why": "A serious compromise of a certificate authority impacts internet security globally, making it a critical alert for all software engineers."
+      "title": "Netflix's Ontology-Driven Observability & Knowledge Graph",
+      "why": "This article offers valuable insights into building scalable observability and data infrastructure for complex systems, applicable to large-scale software engineering."
     },
     {
-      "title": "Netflix Integrates Foundation Models for Enhanced Personalization",
-      "why": "This demonstrates a practical, large-scale application of AI foundation models for personalization, offering insights into real-world AI system design."
+      "title": "GitHub Octoverse 2026: Developers Building with Agents",
+      "why": "The report offers key insights into current developer trends, particularly the increasing adoption of AI agents in the software development lifecycle."
     }
   ]
 }
